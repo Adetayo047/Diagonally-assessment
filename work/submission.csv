@@ -1,0 +1,2001 @@
+customer_id,risk_score,primary_reason
+C100004,1.0,meter has shown exactly 28 kWh for 11 months running
+C100022,1.0,meter has shown exactly 182 kWh for 10 months running
+C100026,1.0,meter has shown exactly 530 kWh for 12 months running
+C100041,1.0,meter has shown exactly 64 kWh for 20 months running
+C100050,1.0,meter has shown exactly 96 kWh for 11 months running
+C100133,1.0,meter has shown exactly 95 kWh for 11 months running
+C100135,1.0,meter has shown exactly 100 kWh for 11 months running
+C100202,1.0,meter has shown exactly 133 kWh for 10 months running
+C100259,1.0,meter has shown exactly 54 kWh for 5 months running
+C100280,1.0,meter has shown exactly 75 kWh for 11 months running
+C100313,1.0,meter has shown exactly 1121 kWh for 22 months running
+C100316,1.0,meter has shown exactly 117 kWh for 8 months running
+C100339,1.0,meter has shown exactly 263 kWh for 21 months running
+C100345,1.0,meter has shown exactly 348 kWh for 20 months running
+C100417,1.0,meter has shown exactly 15 kWh for 18 months running
+C100515,1.0,meter has shown exactly 31 kWh for 16 months running
+C100532,1.0,meter has shown exactly 94 kWh for 16 months running
+C100558,1.0,meter has shown exactly 358 kWh for 12 months running
+C100571,1.0,meter has shown exactly 51 kWh for 22 months running
+C100580,1.0,meter has shown exactly 157 kWh for 11 months running
+C100631,1.0,meter has shown exactly 35 kWh for 16 months running
+C100637,1.0,meter has shown exactly 22 kWh for 11 months running
+C100678,1.0,meter has shown exactly 155 kWh for 7 months running
+C100746,1.0,meter has shown exactly 30 kWh for 8 months running
+C100773,1.0,meter has shown exactly 100 kWh for 21 months running
+C100781,1.0,meter has shown exactly 212 kWh for 17 months running
+C100798,1.0,meter has shown exactly 42 kWh for 11 months running
+C100826,1.0,meter has shown exactly 75 kWh for 11 months running
+C100861,1.0,meter has shown exactly 68 kWh for 12 months running
+C100862,1.0,meter has shown exactly 61 kWh for 8 months running
+C100873,1.0,meter has shown exactly 42 kWh for 4 months running
+C100889,1.0,meter has shown exactly 43 kWh for 12 months running
+C100921,1.0,meter has shown exactly 27 kWh for 19 months running
+C100989,1.0,meter has shown exactly 70 kWh for 19 months running
+C101007,1.0,meter has shown exactly 78 kWh for 6 months running
+C101041,1.0,meter has shown exactly 46 kWh for 5 months running
+C101095,1.0,meter has shown exactly 47 kWh for 12 months running
+C101141,1.0,meter has shown exactly 30 kWh for 6 months running
+C101149,1.0,meter has shown exactly 95 kWh for 12 months running
+C101222,1.0,meter has shown exactly 53 kWh for 9 months running
+C101320,1.0,meter has shown exactly 23 kWh for 20 months running
+C101347,1.0,meter has shown exactly 67 kWh for 9 months running
+C101382,1.0,meter has shown exactly 236 kWh for 19 months running
+C101432,1.0,meter has shown exactly 173 kWh for 5 months running
+C101455,1.0,meter has shown exactly 45 kWh for 22 months running
+C101631,1.0,meter has shown exactly 55 kWh for 5 months running
+C101635,1.0,meter has shown exactly 55 kWh for 17 months running
+C101661,1.0,meter has shown exactly 1179 kWh for 12 months running
+C101682,1.0,meter has shown exactly 45 kWh for 10 months running
+C101694,1.0,meter has shown exactly 84 kWh for 10 months running
+C101811,1.0,meter has shown exactly 47 kWh for 11 months running
+C101826,1.0,meter has shown exactly 29 kWh for 5 months running
+C101829,1.0,meter has shown exactly 70 kWh for 21 months running
+C101833,1.0,meter has shown exactly 166 kWh for 6 months running
+C101848,1.0,meter has shown exactly 352 kWh for 19 months running
+C101936,1.0,meter has shown exactly 24 kWh for 10 months running
+C100876,0.9795,"46% of bills are round estimates, not real meter reads"
+C100603,0.9773,"42% of bills are round estimates, not real meter reads"
+C101407,0.9772,"67% of bills are round estimates, not real meter reads"
+C101211,0.9761,"92% of bills are round estimates, not real meter reads"
+C101226,0.9752,"50% of bills are round estimates, not real meter reads"
+C101092,0.9747,"79% of bills are round estimates, not real meter reads"
+C100395,0.9709,"88% of bills are round estimates, not real meter reads"
+C100153,0.9705,"79% of bills are round estimates, not real meter reads"
+C100785,0.9701,"50% of bills are round estimates, not real meter reads"
+C101458,0.9691,"50% of bills are round estimates, not real meter reads"
+C100023,0.968,"75% of bills are round estimates, not real meter reads"
+C100453,0.968,"67% of bills are round estimates, not real meter reads"
+C100736,0.968,"88% of bills are round estimates, not real meter reads"
+C100992,0.968,"79% of bills are round estimates, not real meter reads"
+C101249,0.968,"79% of bills are round estimates, not real meter reads"
+C101345,0.968,"92% of bills are round estimates, not real meter reads"
+C101648,0.968,"71% of bills are round estimates, not real meter reads"
+C101940,0.968,"46% of bills are round estimates, not real meter reads"
+C101401,0.9675,"75% of bills are round estimates, not real meter reads"
+C100481,0.9672,"46% of bills are round estimates, not real meter reads"
+C100319,0.9659,"50% of bills are round estimates, not real meter reads"
+C101726,0.9659,"83% of bills are round estimates, not real meter reads"
+C100661,0.9638,"50% of bills are round estimates, not real meter reads"
+C100715,0.9616,"75% of bills are round estimates, not real meter reads"
+C101446,0.9614,"50% of bills are round estimates, not real meter reads"
+C100664,0.9595,"67% of bills are round estimates, not real meter reads"
+C100772,0.9595,"50% of bills are round estimates, not real meter reads"
+C101773,0.9595,"42% of bills are round estimates, not real meter reads"
+C101638,0.908,"38% of bills are round estimates, not real meter reads"
+C101328,0.8995,"38% of bills are round estimates, not real meter reads"
+C100029,0.87,usage keeps switching between normal and very low (10 switches)
+C100289,0.87,usage keeps switching between normal and very low (9 switches)
+C100338,0.87,usage keeps switching between normal and very low (8 switches)
+C100410,0.87,usage keeps switching between normal and very low (7 switches)
+C100613,0.87,usage keeps switching between normal and very low (8 switches)
+C100750,0.87,usage keeps switching between normal and very low (8 switches)
+C100908,0.87,usage keeps switching between normal and very low (11 switches)
+C100914,0.87,usage keeps switching between normal and very low (8 switches)
+C100922,0.87,usage keeps switching between normal and very low (9 switches)
+C101001,0.87,usage keeps switching between normal and very low (11 switches)
+C101469,0.87,usage keeps switching between normal and very low (8 switches)
+C101573,0.87,usage keeps switching between normal and very low (10 switches)
+C101624,0.87,usage keeps switching between normal and very low (7 switches)
+C101815,0.87,usage keeps switching between normal and very low (11 switches)
+C100990,0.8696,usage keeps switching between normal and very low (10 switches)
+C100609,0.8683,usage keeps switching between normal and very low (7 switches)
+C100018,0.8681,usage keeps switching between normal and very low (8 switches)
+C101057,0.8681,usage keeps switching between normal and very low (7 switches)
+C101121,0.8671,usage keeps switching between normal and very low (12 switches)
+C100304,0.867,usage keeps switching between normal and very low (7 switches)
+C100448,0.8663,usage keeps switching between normal and very low (8 switches)
+C100037,0.8655,usage keeps switching between normal and very low (10 switches)
+C101771,0.8651,usage keeps switching between normal and very low (8 switches)
+C101389,0.8649,usage keeps switching between normal and very low (8 switches)
+C100351,0.8646,usage keeps switching between normal and very low (7 switches)
+C100646,0.8646,usage keeps switching between normal and very low (7 switches)
+C100995,0.8645,usage keeps switching between normal and very low (11 switches)
+C100900,0.8644,usage keeps switching between normal and very low (8 switches)
+C100996,0.8644,usage keeps switching between normal and very low (7 switches)
+C100507,0.8641,usage keeps switching between normal and very low (9 switches)
+C100660,0.8641,usage keeps switching between normal and very low (9 switches)
+C101732,0.8629,usage keeps switching between normal and very low (8 switches)
+C101745,0.8628,usage keeps switching between normal and very low (9 switches)
+C100059,0.8627,usage keeps switching between normal and very low (7 switches)
+C101013,0.8623,usage keeps switching between normal and very low (9 switches)
+C100562,0.8621,usage keeps switching between normal and very low (7 switches)
+C100302,0.862,usage keeps switching between normal and very low (7 switches)
+C100751,0.862,usage keeps switching between normal and very low (7 switches)
+C100898,0.862,usage keeps switching between normal and very low (7 switches)
+C100947,0.862,usage keeps switching between normal and very low (7 switches)
+C101498,0.862,usage keeps switching between normal and very low (7 switches)
+C100919,0.8619,usage keeps switching between normal and very low (8 switches)
+C101424,0.8619,usage keeps switching between normal and very low (10 switches)
+C100770,0.8617,usage keeps switching between normal and very low (9 switches)
+C100923,0.8617,usage keeps switching between normal and very low (7 switches)
+C101260,0.8614,usage keeps switching between normal and very low (12 switches)
+C101840,0.8614,usage keeps switching between normal and very low (7 switches)
+C100665,0.8601,usage keeps switching between normal and very low (11 switches)
+C100642,0.8585,usage keeps switching between normal and very low (10 switches)
+C100109,0.8179,usage fell 69% in Jan 2026 and has been erratic since
+C100600,0.8179,usage fell 59% in Apr 2025 and has been erratic since
+C101375,0.8179,usage fell 59% in Feb 2025 and has been erratic since
+C101608,0.8179,usage fell 58% in Apr 2026 and has been erratic since
+C101649,0.8179,usage fell 60% in Jan 2026 and has been erratic since
+C101454,0.8174,usage fell 69% in Mar 2026 and has been erratic since
+C100527,0.8164,usage fell 62% in Apr 2026 and has been erratic since
+C100786,0.8158,usage fell 56% in Jun 2026 and has been erratic since
+C100806,0.8158,usage fell 67% in May 2025 and has been erratic since
+C100314,0.8136,usage fell 58% in Apr 2026 and has been erratic since
+C100581,0.8136,usage fell 55% in May 2025 and has been erratic since
+C100804,0.8136,usage fell 71% in Apr 2026 and has been erratic since
+C100848,0.8136,usage fell 58% in Jan 2025 and has been erratic since
+C101161,0.8136,usage fell 56% in Nov 2025 and has been erratic since
+C101943,0.8136,usage fell 58% in Jan 2025 and has been erratic since
+C100063,0.8115,usage fell 62% in Dec 2025 and has been erratic since
+C100103,0.8115,usage fell 62% in Jun 2026 and has been erratic since
+C100143,0.8115,usage fell 69% in Apr 2026 and has been erratic since
+C100243,0.8115,usage fell 77% in Jun 2026 and has been erratic since
+C100365,0.8115,usage fell 78% in Oct 2025 and has been erratic since
+C100404,0.8115,usage fell 61% in Dec 2024 and has been erratic since
+C100624,0.8115,usage fell 62% in Feb 2025 and has been erratic since
+C100693,0.8115,usage fell 66% in Feb 2026 and has been erratic since
+C100698,0.8115,usage fell 57% in Apr 2025 and has been erratic since
+C100816,0.8115,usage fell 69% in Oct 2025 and has been erratic since
+C101089,0.8115,usage fell 56% in Mar 2025 and has been erratic since
+C101132,0.8115,usage fell 69% in Dec 2024 and has been erratic since
+C101207,0.8115,usage fell 70% in Jun 2026 and has been erratic since
+C101350,0.8115,usage fell 58% in Mar 2026 and has been erratic since
+C101352,0.8115,usage fell 63% in Jan 2026 and has been erratic since
+C101405,0.8115,usage fell 56% in Apr 2025 and has been erratic since
+C101611,0.8115,usage fell 55% in Feb 2025 and has been erratic since
+C101810,0.8115,usage fell 69% in May 2026 and has been erratic since
+C101884,0.8115,usage fell 72% in Jun 2026 and has been erratic since
+C101930,0.8115,usage fell 58% in Feb 2025 and has been erratic since
+C101472,0.804,usage fell 68% in Jan 2026 and has been erratic since
+C101605,0.7996,"33% of bills are round estimates, not real meter reads"
+C101139,0.7816,usage fell 54% in Feb 2026 and has been erratic since
+C101755,0.7774,usage fell 54% in Dec 2025 and has been erratic since
+C100645,0.771,usage fell 56% in Nov 2025 and has been erratic since
+C100760,0.7681,usage fell 69% in May 2026 and has been erratic since
+C101604,0.7612,usage fell 53% in Dec 2024 and has been erratic since
+C101355,0.7469,usage fell 53% in Apr 2025 and has been erratic since
+C101253,0.7276,usage fell 52% in Apr 2025 and has been erratic since
+C101898,0.7263,usage fell 54% in Dec 2024 and has been erratic since
+C100244,0.7129,usage fell 57% in Jun 2026 and has been erratic since
+C100949,0.7081,usage fell 52% in Jan 2025 and has been erratic since
+C100085,0.6996,"29% of bills are round estimates, not real meter reads"
+C100387,0.6996,"29% of bills are round estimates, not real meter reads"
+C100420,0.6996,"29% of bills are round estimates, not real meter reads"
+C101310,0.6926,usage fell 51% in Jan 2025 and has been erratic since
+C100531,0.6863,usage fell 73% in Oct 2025 and has been erratic since
+C101695,0.6772,usage fell 51% in Jan 2025 and has been erratic since
+C100713,0.6627,usage fell 74% in Mar 2026 and has been erratic since
+C100538,0.6616,usage fell 60% in Nov 2025 and has been erratic since
+C101581,0.6533,usage keeps switching between normal and very low (6 switches)
+C100745,0.6526,usage keeps switching between normal and very low (6 switches)
+C100255,0.6521,usage keeps switching between normal and very low (6 switches)
+C101821,0.652,usage keeps switching between normal and very low (6 switches)
+C100327,0.6513,usage keeps switching between normal and very low (6 switches)
+C101358,0.6505,usage keeps switching between normal and very low (6 switches)
+C100361,0.6491,usage keeps switching between normal and very low (6 switches)
+C100537,0.6489,usage keeps switching between normal and very low (6 switches)
+C101843,0.6486,usage keeps switching between normal and very low (6 switches)
+C101190,0.6485,usage keeps switching between normal and very low (6 switches)
+C100221,0.648,usage keeps switching between normal and very low (6 switches)
+C101344,0.6472,usage keeps switching between normal and very low (6 switches)
+C101718,0.6469,usage keeps switching between normal and very low (6 switches)
+C101674,0.6467,usage keeps switching between normal and very low (6 switches)
+C100038,0.6466,usage fell 50% in Dec 2024 and has been erratic since
+C101404,0.6464,usage keeps switching between normal and very low (6 switches)
+C100058,0.6463,usage keeps switching between normal and very low (6 switches)
+C100005,0.6462,usage keeps switching between normal and very low (6 switches)
+C101431,0.6459,usage keeps switching between normal and very low (6 switches)
+C101687,0.6341,usage fell 49% in Feb 2026 and has been erratic since
+C101429,0.6146,usage fell 59% in Mar 2026 and has been erratic since
+C101184,0.6128,usage fell 49% in Mar 2025 and has been erratic since
+C101448,0.6037,usage fell 67% in May 2026 and has been erratic since
+C100342,0.6022,usage fell 58% in Jun 2026 and has been erratic since
+C100270,0.6013,usage fell 49% in Dec 2025 and has been erratic since
+C100749,0.5978,usage fell 48% in Dec 2025 and has been erratic since
+C101514,0.5925,usage fell 54% in Feb 2025 and has been erratic since
+C101593,0.5769,usage fell 56% in Feb 2025 and has been erratic since
+C101322,0.5686,usage fell 47% in Feb 2026 and has been erratic since
+C101087,0.5565,usage fell 47% in Oct 2025 and has been erratic since
+C101259,0.5409,usage fell 47% in Jan 2025 and has been erratic since
+C100722,0.531,usage fell 53% in Apr 2026 and has been erratic since
+C100634,0.5272,usage fell 46% in Dec 2024 and has been erratic since
+C100294,0.5179,usage fell 46% in Dec 2024 and has been erratic since
+C101927,0.5019,"21% of bills are round estimates, not real meter reads"
+C100815,0.4997,"21% of bills are round estimates, not real meter reads"
+C100097,0.4937,usage fell 65% in Mar 2026 and has been erratic since
+C100542,0.4874,usage fell 45% in Oct 2025 and has been erratic since
+C101727,0.4769,usage fell 45% in May 2026 and has been erratic since
+C101078,0.4385,usage fell 51% in Dec 2024 and has been erratic since
+C101805,0.4379,usage fell 53% in Jun 2026 and has been erratic since
+C101254,0.4355,usage keeps switching between normal and very low (5 switches)
+C100737,0.4335,usage keeps switching between normal and very low (5 switches)
+C101610,0.4334,usage keeps switching between normal and very low (5 switches)
+C100322,0.4333,usage keeps switching between normal and very low (5 switches)
+C100187,0.4328,usage keeps switching between normal and very low (5 switches)
+C100211,0.4328,usage keeps switching between normal and very low (5 switches)
+C100689,0.4328,usage keeps switching between normal and very low (5 switches)
+C100955,0.4328,usage keeps switching between normal and very low (5 switches)
+C101615,0.4328,usage keeps switching between normal and very low (5 switches)
+C101683,0.4328,usage keeps switching between normal and very low (5 switches)
+C101914,0.4328,usage keeps switching between normal and very low (5 switches)
+C101977,0.4328,usage keeps switching between normal and very low (5 switches)
+C100633,0.4327,usage keeps switching between normal and very low (5 switches)
+C101677,0.4327,usage keeps switching between normal and very low (5 switches)
+C100622,0.4325,usage keeps switching between normal and very low (5 switches)
+C100942,0.4324,usage keeps switching between normal and very low (5 switches)
+C101396,0.4324,usage keeps switching between normal and very low (5 switches)
+C101957,0.4324,usage keeps switching between normal and very low (5 switches)
+C101075,0.4323,usage keeps switching between normal and very low (5 switches)
+C101228,0.4323,usage keeps switching between normal and very low (5 switches)
+C100478,0.432,usage keeps switching between normal and very low (5 switches)
+C101338,0.4316,usage keeps switching between normal and very low (5 switches)
+C101412,0.4167,usage fell 43% in Jan 2025 and has been erratic since
+C100575,0.4107,usage fell 70% in Jun 2026 and has been erratic since
+C101870,0.3735,usage fell 48% in Mar 2025 and has been erratic since
+C100499,0.3582,usage fell 52% in Feb 2025 and has been erratic since
+C100535,0.3569,"usage fell 63% in Apr 2026; may be genuine, lower priority"
+C101961,0.3568,"usage fell 58% in Apr 2025; may be genuine, lower priority"
+C100800,0.3567,"usage fell 55% in Dec 2025; may be genuine, lower priority"
+C100051,0.3559,usage fell 44% in Jun 2025 and has been erratic since
+C100928,0.3559,"usage fell 59% in Apr 2026; may be genuine, lower priority"
+C100053,0.3556,"usage fell 57% in Dec 2025; may be genuine, lower priority"
+C100644,0.3556,"usage fell 61% in Jun 2025; may be genuine, lower priority"
+C100998,0.3556,"usage fell 58% in Dec 2025; may be genuine, lower priority"
+C101513,0.3556,"usage fell 59% in Jun 2026; may be genuine, lower priority"
+C101817,0.3556,"usage fell 59% in Aug 2025; may be genuine, lower priority"
+C100416,0.3555,"usage fell 62% in Apr 2025; may be genuine, lower priority"
+C100655,0.3548,"usage fell 63% in Aug 2025; may be genuine, lower priority"
+C100295,0.3546,"usage fell 68% in Nov 2025; may be genuine, lower priority"
+C101109,0.3546,"usage fell 66% in May 2026; may be genuine, lower priority"
+C100065,0.3545,"usage fell 65% in Aug 2025; may be genuine, lower priority"
+C101497,0.3545,"usage fell 67% in Mar 2025; may be genuine, lower priority"
+C101004,0.3541,"usage fell 58% in Oct 2025; may be genuine, lower priority"
+C100276,0.354,usage fell 52% in Mar 2026 and has been erratic since
+C100838,0.354,"usage fell 63% in Mar 2026; may be genuine, lower priority"
+C101185,0.354,usage fell 42% in Feb 2026 and has been erratic since
+C100683,0.3539,"usage fell 67% in Sep 2025; may be genuine, lower priority"
+C100256,0.3538,"usage fell 57% in Oct 2025; may be genuine, lower priority"
+C101579,0.3537,"usage fell 56% in May 2026; may be genuine, lower priority"
+C101999,0.3537,"usage fell 64% in Dec 2025; may be genuine, lower priority"
+C100012,0.3535,"usage fell 61% in Dec 2025; may be genuine, lower priority"
+C100039,0.3535,"usage fell 64% in Mar 2026; may be genuine, lower priority"
+C100056,0.3535,"usage fell 66% in Oct 2025; may be genuine, lower priority"
+C100080,0.3535,"usage fell 66% in Mar 2026; may be genuine, lower priority"
+C100082,0.3535,"usage fell 69% in Apr 2026; may be genuine, lower priority"
+C100090,0.3535,"usage fell 57% in Nov 2025; may be genuine, lower priority"
+C100100,0.3535,"usage fell 69% in Jun 2026; may be genuine, lower priority"
+C100111,0.3535,"usage fell 59% in May 2026; may be genuine, lower priority"
+C100162,0.3535,"usage fell 65% in Nov 2025; may be genuine, lower priority"
+C100176,0.3535,"usage fell 66% in Jun 2026; may be genuine, lower priority"
+C100237,0.3535,"usage fell 57% in Dec 2025; may be genuine, lower priority"
+C100269,0.3535,"usage fell 64% in Mar 2026; may be genuine, lower priority"
+C100277,0.3535,"usage fell 74% in May 2026; may be genuine, lower priority"
+C100285,0.3535,"usage fell 66% in Mar 2026; may be genuine, lower priority"
+C100291,0.3535,"usage fell 63% in Jan 2026; may be genuine, lower priority"
+C100305,0.3535,"usage fell 67% in Nov 2025; may be genuine, lower priority"
+C100317,0.3535,"usage fell 69% in Sep 2025; may be genuine, lower priority"
+C100329,0.3535,"usage fell 61% in Jun 2026; may be genuine, lower priority"
+C100405,0.3535,"usage fell 56% in May 2026; may be genuine, lower priority"
+C100413,0.3535,"usage fell 62% in Oct 2025; may be genuine, lower priority"
+C100489,0.3535,"usage fell 60% in Oct 2025; may be genuine, lower priority"
+C100597,0.3535,"usage fell 62% in Sep 2025; may be genuine, lower priority"
+C100599,0.3535,"usage fell 64% in Sep 2025; may be genuine, lower priority"
+C100623,0.3535,"usage fell 59% in Aug 2025; may be genuine, lower priority"
+C100630,0.3535,"usage fell 63% in Apr 2026; may be genuine, lower priority"
+C100640,0.3535,"usage fell 62% in Jan 2026; may be genuine, lower priority"
+C100649,0.3535,"usage fell 55% in Jun 2026; may be genuine, lower priority"
+C100691,0.3535,"usage fell 68% in Sep 2025; may be genuine, lower priority"
+C100696,0.3535,"usage fell 61% in Apr 2026; may be genuine, lower priority"
+C100766,0.3535,"usage fell 69% in May 2026; may be genuine, lower priority"
+C100774,0.3535,"usage fell 62% in Oct 2025; may be genuine, lower priority"
+C100797,0.3535,"usage fell 56% in Feb 2026; may be genuine, lower priority"
+C100801,0.3535,"usage fell 61% in Aug 2025; may be genuine, lower priority"
+C100814,0.3535,"usage fell 59% in Jun 2026; may be genuine, lower priority"
+C100844,0.3535,"usage fell 59% in Mar 2026; may be genuine, lower priority"
+C100846,0.3535,"usage fell 69% in Dec 2025; may be genuine, lower priority"
+C100870,0.3535,"usage fell 58% in Apr 2026; may be genuine, lower priority"
+C100912,0.3535,"usage fell 60% in May 2026; may be genuine, lower priority"
+C100959,0.3535,"usage fell 59% in Mar 2026; may be genuine, lower priority"
+C100962,0.3535,"usage fell 63% in Nov 2025; may be genuine, lower priority"
+C101046,0.3535,"usage fell 69% in Mar 2026; may be genuine, lower priority"
+C101065,0.3535,"usage fell 64% in Feb 2026; may be genuine, lower priority"
+C101197,0.3535,"usage fell 62% in May 2026; may be genuine, lower priority"
+C101199,0.3535,"usage fell 63% in Apr 2026; may be genuine, lower priority"
+C101206,0.3535,"usage fell 58% in Aug 2025; may be genuine, lower priority"
+C101266,0.3535,"usage fell 68% in Feb 2026; may be genuine, lower priority"
+C101282,0.3535,"usage fell 63% in Nov 2025; may be genuine, lower priority"
+C101286,0.3535,"usage fell 59% in Jun 2026; may be genuine, lower priority"
+C101298,0.3535,"usage fell 63% in Jul 2025; may be genuine, lower priority"
+C101315,0.3535,"usage fell 56% in Mar 2026; may be genuine, lower priority"
+C101336,0.3535,"usage fell 64% in Apr 2026; may be genuine, lower priority"
+C101370,0.3535,"usage fell 55% in May 2026; may be genuine, lower priority"
+C101395,0.3535,"usage fell 61% in Jun 2026; may be genuine, lower priority"
+C101417,0.3535,"usage fell 59% in Jan 2026; may be genuine, lower priority"
+C101434,0.3535,"usage fell 63% in Jul 2025; may be genuine, lower priority"
+C101451,0.3535,"usage fell 69% in Jun 2026; may be genuine, lower priority"
+C101462,0.3535,"usage fell 64% in Jun 2026; may be genuine, lower priority"
+C101463,0.3535,"usage fell 67% in Apr 2026; may be genuine, lower priority"
+C101531,0.3535,"usage fell 70% in Feb 2026; may be genuine, lower priority"
+C101542,0.3535,"usage fell 68% in Apr 2026; may be genuine, lower priority"
+C101548,0.3535,"usage fell 55% in Jan 2026; may be genuine, lower priority"
+C101555,0.3535,"usage fell 67% in Sep 2025; may be genuine, lower priority"
+C101623,0.3535,"usage fell 67% in Feb 2026; may be genuine, lower priority"
+C101627,0.3535,"usage fell 65% in Nov 2025; may be genuine, lower priority"
+C101658,0.3535,"usage fell 66% in Feb 2025; may be genuine, lower priority"
+C101662,0.3535,"usage fell 57% in Oct 2025; may be genuine, lower priority"
+C101720,0.3535,"usage fell 67% in Apr 2026; may be genuine, lower priority"
+C101721,0.3535,"usage fell 70% in Aug 2025; may be genuine, lower priority"
+C101723,0.3535,"usage fell 66% in Jan 2026; may be genuine, lower priority"
+C101728,0.3535,"usage fell 56% in Apr 2026; may be genuine, lower priority"
+C101730,0.3535,"usage fell 62% in Jun 2026; may be genuine, lower priority"
+C101742,0.3535,"usage fell 67% in Apr 2026; may be genuine, lower priority"
+C101748,0.3535,"usage fell 56% in Jun 2026; may be genuine, lower priority"
+C101758,0.3535,"usage fell 64% in May 2026; may be genuine, lower priority"
+C101774,0.3535,"usage fell 60% in Nov 2025; may be genuine, lower priority"
+C101820,0.3535,"usage fell 61% in Jun 2026; may be genuine, lower priority"
+C101973,0.3535,"usage fell 61% in Jan 2026; may be genuine, lower priority"
+C101913,0.3513,"usage fell 55% in Apr 2026; may be genuine, lower priority"
+C100899,0.3506,"usage fell 55% in Jan 2025; may be genuine, lower priority"
+C101595,0.3505,"usage fell 55% in Jan 2026; may be genuine, lower priority"
+C100371,0.35,"usage fell 55% in Oct 2025; may be genuine, lower priority"
+C100727,0.3485,usage fell 47% in Nov 2025 and has been erratic since
+C100809,0.3456,"usage fell 54% in Mar 2026; may be genuine, lower priority"
+C101781,0.3445,"usage fell 54% in Jun 2026; may be genuine, lower priority"
+C100985,0.3416,"usage fell 54% in May 2026; may be genuine, lower priority"
+C101257,0.341,"usage fell 54% in Oct 2025; may be genuine, lower priority"
+C101410,0.3348,"usage fell 54% in Jun 2026; may be genuine, lower priority"
+C101074,0.334,"usage fell 54% in Dec 2025; may be genuine, lower priority"
+C101414,0.334,"usage fell 54% in Feb 2026; may be genuine, lower priority"
+C101596,0.3338,"usage fell 53% in Jun 2026; may be genuine, lower priority"
+C101620,0.3307,"usage fell 53% in Apr 2026; may be genuine, lower priority"
+C101591,0.3304,"usage fell 53% in Mar 2026; may be genuine, lower priority"
+C100108,0.326,"usage fell 53% in Jan 2026; may be genuine, lower priority"
+C101546,0.3259,"usage fell 53% in Mar 2026; may be genuine, lower priority"
+C100999,0.3256,"usage fell 53% in Feb 2026; may be genuine, lower priority"
+C101614,0.32,"usage fell 52% in Feb 2026; may be genuine, lower priority"
+C100894,0.3167,"usage fell 52% in Oct 2025; may be genuine, lower priority"
+C101091,0.3138,"usage fell 52% in Mar 2026; may be genuine, lower priority"
+C101526,0.3136,"usage fell 52% in Apr 2026; may be genuine, lower priority"
+C101059,0.3119,"usage fell 52% in May 2026; may be genuine, lower priority"
+C101929,0.3098,"usage fell 52% in May 2026; may be genuine, lower priority"
+C100358,0.3049,"usage fell 51% in Oct 2025; may be genuine, lower priority"
+C100357,0.2992,"usage fell 51% in Feb 2026; may be genuine, lower priority"
+C100641,0.2946,"usage fell 51% in Apr 2026; may be genuine, lower priority"
+C100728,0.2927,"usage fell 51% in May 2026; may be genuine, lower priority"
+C100040,0.2918,"usage fell 51% in Dec 2025; may be genuine, lower priority"
+C100810,0.2892,"usage fell 50% in Mar 2026; may be genuine, lower priority"
+C100188,0.2885,"usage fell 50% in May 2026; may be genuine, lower priority"
+C101050,0.2865,"usage fell 50% in Feb 2026; may be genuine, lower priority"
+C101906,0.2796,"usage fell 50% in May 2026; may be genuine, lower priority"
+C100161,0.2785,"usage fell 50% in Apr 2026; may be genuine, lower priority"
+C100309,0.2727,"usage fell 49% in Mar 2026; may be genuine, lower priority"
+C100250,0.267,"usage fell 49% in May 2026; may be genuine, lower priority"
+C100651,0.2669,usage fell 46% in Oct 2025 and has been erratic since
+C101145,0.2643,"usage fell 49% in Jun 2026; may be genuine, lower priority"
+C100469,0.2642,usage fell 45% in Jun 2026 and has been erratic since
+C101305,0.2632,"usage fell 48% in Dec 2025; may be genuine, lower priority"
+C100433,0.2626,"usage fell 48% in Mar 2026; may be genuine, lower priority"
+C100122,0.2625,"usage fell 48% in Dec 2025; may be genuine, lower priority"
+C100089,0.2616,"usage fell 48% in Dec 2025; may be genuine, lower priority"
+C101743,0.2603,"usage fell 48% in Mar 2026; may be genuine, lower priority"
+C100632,0.26,"usage fell 48% in Dec 2024; may be genuine, lower priority"
+C100521,0.2563,"usage fell 48% in Jun 2026; may be genuine, lower priority"
+C101557,0.2553,"usage fell 48% in Jan 2026; may be genuine, lower priority"
+C101918,0.2535,"usage fell 48% in Apr 2026; may be genuine, lower priority"
+C101486,0.252,"usage fell 48% in Oct 2025; may be genuine, lower priority"
+C100296,0.2512,"usage fell 48% in Dec 2024; may be genuine, lower priority"
+C100377,0.2497,"usage fell 48% in Jun 2026; may be genuine, lower priority"
+C101409,0.2485,"usage fell 48% in May 2026; may be genuine, lower priority"
+C101547,0.2485,"usage fell 48% in Apr 2026; may be genuine, lower priority"
+C100953,0.2455,"usage fell 47% in Jun 2025; may be genuine, lower priority"
+C101736,0.24,"usage fell 47% in Dec 2024; may be genuine, lower priority"
+C101096,0.2387,"usage fell 47% in Aug 2025; may be genuine, lower priority"
+C101874,0.238,"usage fell 47% in Feb 2026; may be genuine, lower priority"
+C100512,0.2374,"usage fell 47% in Mar 2025; may be genuine, lower priority"
+C100610,0.2326,"usage fell 46% in Dec 2024; may be genuine, lower priority"
+C100148,0.2299,"usage fell 46% in Apr 2025; may be genuine, lower priority"
+C100569,0.228,"usage fell 46% in May 2026; may be genuine, lower priority"
+C101836,0.2276,"usage fell 46% in May 2026; may be genuine, lower priority"
+C100957,0.2238,"usage fell 46% in Mar 2026; may be genuine, lower priority"
+C100777,0.2228,"usage fell 46% in Oct 2025; may be genuine, lower priority"
+C100663,0.2211,usage fell 37% in Dec 2024 and has been erratic since
+C101281,0.221,"usage fell 45% in Jan 2026; may be genuine, lower priority"
+C101722,0.2197,"usage fell 46% in Jun 2026; may be genuine, lower priority"
+C101560,0.2181,"usage fell 45% in Apr 2025; may be genuine, lower priority"
+C100579,0.217,usage keeps switching between normal and very low (4 switches)
+C101577,0.2166,usage keeps switching between normal and very low (4 switches)
+C100700,0.2165,usage keeps switching between normal and very low (4 switches)
+C100667,0.216,usage keeps switching between normal and very low (4 switches)
+C101393,0.2149,usage keeps switching between normal and very low (4 switches)
+C101875,0.2121,usage fell 44% in Feb 2025 and has been erratic since
+C100303,0.2099,"usage fell 45% in Jun 2026; may be genuine, lower priority"
+C100473,0.2088,"usage fell 45% in May 2026; may be genuine, lower priority"
+C100183,0.2083,usage fell 44% in May 2026 and has been erratic since
+C100794,0.2066,"usage fell 45% in Jun 2025; may be genuine, lower priority"
+C101837,0.2062,"usage fell 45% in Apr 2026; may be genuine, lower priority"
+C101068,0.2021,"usage fell 44% in Feb 2025; may be genuine, lower priority"
+C100140,0.1979,"usage fell 44% in Apr 2026; may be genuine, lower priority"
+C100105,0.1957,"usage fell 44% in Jun 2026; may be genuine, lower priority"
+C100348,0.1937,"usage fell 44% in Apr 2026; may be genuine, lower priority"
+C100902,0.189,"usage fell 43% in Apr 2026; may be genuine, lower priority"
+C100008,0.1887,"usage fell 43% in Oct 2025; may be genuine, lower priority"
+C100897,0.1882,usage fell 39% in Oct 2025 and has been erratic since
+C101764,0.188,"usage fell 43% in May 2026; may be genuine, lower priority"
+C101351,0.1867,"usage fell 43% in Feb 2026; may be genuine, lower priority"
+C100628,0.1863,"usage fell 43% in Apr 2026; may be genuine, lower priority"
+C101850,0.1817,usage fell 36% in Aug 2025 and has been erratic since
+C100940,0.1797,"usage fell 43% in May 2026; may be genuine, lower priority"
+C100106,0.172,"usage fell 42% in Feb 2026; may be genuine, lower priority"
+C100203,0.1715,"usage fell 42% in May 2026; may be genuine, lower priority"
+C101652,0.167,"usage fell 42% in Feb 2026; may be genuine, lower priority"
+C100267,0.1668,usage fell 37% in Jul 2025 and has been erratic since
+C101793,0.1663,"usage fell 42% in Dec 2024; may be genuine, lower priority"
+C101034,0.1607,"usage fell 41% in Sep 2025; may be genuine, lower priority"
+C100732,0.1591,"usage fell 41% in Apr 2026; may be genuine, lower priority"
+C100458,0.1576,usage fell 35% in Oct 2025 and has been erratic since
+C101515,0.1569,"usage fell 41% in Dec 2025; may be genuine, lower priority"
+C100540,0.1541,"usage fell 41% in Apr 2026; may be genuine, lower priority"
+C100926,0.1528,"usage fell 41% in Feb 2025; may be genuine, lower priority"
+C100621,0.1492,"usage fell 41% in Feb 2026; may be genuine, lower priority"
+C101554,0.1479,"usage fell 40% in Jul 2025; may be genuine, lower priority"
+C101111,0.1467,"usage fell 40% in Oct 2025; may be genuine, lower priority"
+C101267,0.1462,"usage fell 40% in Apr 2026; may be genuine, lower priority"
+C101319,0.1444,"usage fell 40% in Jun 2026; may be genuine, lower priority"
+C101290,0.1404,"usage fell 40% in May 2026; may be genuine, lower priority"
+C101300,0.1398,usage fell 34% in Aug 2025 and has been erratic since
+C100447,0.1392,"usage fell 40% in Sep 2025; may be genuine, lower priority"
+C100380,0.1363,"usage fell 40% in Jul 2025; may be genuine, lower priority"
+C100647,0.1346,"usage fell 40% in Oct 2025; may be genuine, lower priority"
+C100492,0.1324,"usage fell 39% in Dec 2025; may be genuine, lower priority"
+C100389,0.1312,usage fell 34% in May 2026 and has been erratic since
+C101583,0.1308,"usage fell 39% in May 2026; may be genuine, lower priority"
+C101864,0.1308,"usage fell 39% in Dec 2025; may be genuine, lower priority"
+C100976,0.1307,"usage fell 39% in Sep 2025; may be genuine, lower priority"
+C101138,0.1216,"usage fell 39% in Mar 2026; may be genuine, lower priority"
+C100223,0.1204,"usage fell 39% in Nov 2025; may be genuine, lower priority"
+C101765,0.1202,"usage fell 38% in May 2026; may be genuine, lower priority"
+C101110,0.1045,"usage fell 37% in Feb 2026; may be genuine, lower priority"
+C101520,0.1009,"usage fell 37% in Nov 2025; may be genuine, lower priority"
+C100429,0.1001,"4% of bills are round estimates, not real meter reads"
+C100139,0.0999,"4% of bills are round estimates, not real meter reads"
+C101855,0.0999,"4% of bills are round estimates, not real meter reads"
+C100557,0.0918,"usage fell 36% in Jun 2026; may be genuine, lower priority"
+C100114,0.0842,"usage fell 36% in Dec 2025; may be genuine, lower priority"
+C101915,0.0812,"usage fell 36% in May 2026; may be genuine, lower priority"
+C100287,0.073,"usage fell 35% in Nov 2025; may be genuine, lower priority"
+C101679,0.0699,"usage fell 35% in May 2026; may be genuine, lower priority"
+C100608,0.0681,"usage fell 35% in Mar 2026; may be genuine, lower priority"
+C100705,0.0624,"usage fell 34% in Apr 2026; may be genuine, lower priority"
+C101690,0.0568,usage fell 32% in Sep 2025 and has been erratic since
+C101094,0.0532,"usage fell 34% in Sep 2025; may be genuine, lower priority"
+C100179,0.044,"usage fell 33% in Oct 2025; may be genuine, lower priority"
+C100598,0.0376,"usage fell 33% in Aug 2025; may be genuine, lower priority"
+C101496,0.0376,"usage fell 33% in Jan 2026; may be genuine, lower priority"
+C100297,0.0245,"usage fell 32% in Jan 2026; may be genuine, lower priority"
+C101889,0.02,"usage fell 31% in Apr 2026; may be genuine, lower priority"
+C100510,0.0198,"usage fell 31% in May 2025; may be genuine, lower priority"
+C100436,0.0175,"usage fell 31% in Sep 2025; may be genuine, lower priority"
+C100917,0.0166,"usage fell 31% in Aug 2025; may be genuine, lower priority"
+C101985,0.015,"usage fell 31% in Jun 2025; may be genuine, lower priority"
+C100415,0.0141,"usage fell 31% in Apr 2026; may be genuine, lower priority"
+C100445,0.0126,"usage fell 31% in Jun 2026; may be genuine, lower priority"
+C100000,0.0,no unusual pattern in billed usage
+C100001,0.0,no unusual pattern in billed usage
+C100002,0.0,no unusual pattern in billed usage
+C100003,0.0,no unusual pattern in billed usage
+C100006,0.0,no unusual pattern in billed usage
+C100007,0.0,no unusual pattern in billed usage
+C100009,0.0,no unusual pattern in billed usage
+C100010,0.0,no unusual pattern in billed usage
+C100011,0.0,no unusual pattern in billed usage
+C100013,0.0,no unusual pattern in billed usage
+C100014,0.0,no unusual pattern in billed usage
+C100015,0.0,no unusual pattern in billed usage
+C100016,0.0,no unusual pattern in billed usage
+C100017,0.0,no unusual pattern in billed usage
+C100019,0.0,no unusual pattern in billed usage
+C100020,0.0,no unusual pattern in billed usage
+C100021,0.0,no unusual pattern in billed usage
+C100024,0.0,no unusual pattern in billed usage
+C100025,0.0,no unusual pattern in billed usage
+C100027,0.0,no unusual pattern in billed usage
+C100028,0.0,no unusual pattern in billed usage
+C100030,0.0,no unusual pattern in billed usage
+C100031,0.0,no unusual pattern in billed usage
+C100032,0.0,no unusual pattern in billed usage
+C100033,0.0,no unusual pattern in billed usage
+C100034,0.0,no unusual pattern in billed usage
+C100035,0.0,no unusual pattern in billed usage
+C100036,0.0,no unusual pattern in billed usage
+C100042,0.0,no unusual pattern in billed usage
+C100043,0.0,no unusual pattern in billed usage
+C100044,0.0,no unusual pattern in billed usage
+C100045,0.0,no unusual pattern in billed usage
+C100046,0.0,no unusual pattern in billed usage
+C100047,0.0,no unusual pattern in billed usage
+C100048,0.0,no unusual pattern in billed usage
+C100049,0.0,no unusual pattern in billed usage
+C100052,0.0,no unusual pattern in billed usage
+C100054,0.0,no unusual pattern in billed usage
+C100055,0.0,no unusual pattern in billed usage
+C100057,0.0,no unusual pattern in billed usage
+C100060,0.0,no unusual pattern in billed usage
+C100061,0.0,no unusual pattern in billed usage
+C100062,0.0,no unusual pattern in billed usage
+C100064,0.0,no unusual pattern in billed usage
+C100066,0.0,no unusual pattern in billed usage
+C100067,0.0,no unusual pattern in billed usage
+C100068,0.0,no unusual pattern in billed usage
+C100069,0.0,no unusual pattern in billed usage
+C100070,0.0,no unusual pattern in billed usage
+C100071,0.0,no unusual pattern in billed usage
+C100072,0.0,no unusual pattern in billed usage
+C100073,0.0,no unusual pattern in billed usage
+C100074,0.0,no unusual pattern in billed usage
+C100075,0.0,no unusual pattern in billed usage
+C100076,0.0,no unusual pattern in billed usage
+C100077,0.0,no unusual pattern in billed usage
+C100078,0.0,no unusual pattern in billed usage
+C100079,0.0,no unusual pattern in billed usage
+C100081,0.0,no unusual pattern in billed usage
+C100083,0.0,no unusual pattern in billed usage
+C100084,0.0,no unusual pattern in billed usage
+C100086,0.0,no unusual pattern in billed usage
+C100087,0.0,no unusual pattern in billed usage
+C100088,0.0,no unusual pattern in billed usage
+C100091,0.0,no unusual pattern in billed usage
+C100092,0.0,no unusual pattern in billed usage
+C100093,0.0,no unusual pattern in billed usage
+C100094,0.0,no unusual pattern in billed usage
+C100095,0.0,no unusual pattern in billed usage
+C100096,0.0,no unusual pattern in billed usage
+C100098,0.0,no unusual pattern in billed usage
+C100099,0.0,no unusual pattern in billed usage
+C100101,0.0,no unusual pattern in billed usage
+C100102,0.0,no unusual pattern in billed usage
+C100104,0.0,no unusual pattern in billed usage
+C100107,0.0,no unusual pattern in billed usage
+C100110,0.0,no unusual pattern in billed usage
+C100112,0.0,no unusual pattern in billed usage
+C100113,0.0,no unusual pattern in billed usage
+C100115,0.0,no unusual pattern in billed usage
+C100116,0.0,no unusual pattern in billed usage
+C100117,0.0,no unusual pattern in billed usage
+C100118,0.0,no unusual pattern in billed usage
+C100119,0.0,no unusual pattern in billed usage
+C100120,0.0,no unusual pattern in billed usage
+C100121,0.0,no unusual pattern in billed usage
+C100123,0.0,no unusual pattern in billed usage
+C100124,0.0,no unusual pattern in billed usage
+C100125,0.0,no unusual pattern in billed usage
+C100126,0.0,no unusual pattern in billed usage
+C100127,0.0,no unusual pattern in billed usage
+C100128,0.0,no unusual pattern in billed usage
+C100129,0.0,no unusual pattern in billed usage
+C100130,0.0,no unusual pattern in billed usage
+C100131,0.0,no unusual pattern in billed usage
+C100132,0.0,no unusual pattern in billed usage
+C100134,0.0,no unusual pattern in billed usage
+C100136,0.0,no unusual pattern in billed usage
+C100137,0.0,no unusual pattern in billed usage
+C100138,0.0,no unusual pattern in billed usage
+C100141,0.0,no unusual pattern in billed usage
+C100142,0.0,no unusual pattern in billed usage
+C100144,0.0,no unusual pattern in billed usage
+C100145,0.0,no unusual pattern in billed usage
+C100146,0.0,no unusual pattern in billed usage
+C100147,0.0,no unusual pattern in billed usage
+C100149,0.0,no unusual pattern in billed usage
+C100150,0.0,no unusual pattern in billed usage
+C100151,0.0,no unusual pattern in billed usage
+C100152,0.0,no unusual pattern in billed usage
+C100154,0.0,no unusual pattern in billed usage
+C100155,0.0,no unusual pattern in billed usage
+C100156,0.0,no unusual pattern in billed usage
+C100157,0.0,no unusual pattern in billed usage
+C100158,0.0,no unusual pattern in billed usage
+C100159,0.0,no unusual pattern in billed usage
+C100160,0.0,no unusual pattern in billed usage
+C100163,0.0,no unusual pattern in billed usage
+C100164,0.0,no unusual pattern in billed usage
+C100165,0.0,no unusual pattern in billed usage
+C100166,0.0,no unusual pattern in billed usage
+C100167,0.0,no unusual pattern in billed usage
+C100168,0.0,no unusual pattern in billed usage
+C100169,0.0,no unusual pattern in billed usage
+C100170,0.0,no unusual pattern in billed usage
+C100171,0.0,no unusual pattern in billed usage
+C100172,0.0,no unusual pattern in billed usage
+C100173,0.0,no unusual pattern in billed usage
+C100174,0.0,no unusual pattern in billed usage
+C100175,0.0,no unusual pattern in billed usage
+C100177,0.0,no unusual pattern in billed usage
+C100178,0.0,no unusual pattern in billed usage
+C100180,0.0,no unusual pattern in billed usage
+C100181,0.0,no unusual pattern in billed usage
+C100182,0.0,no unusual pattern in billed usage
+C100184,0.0,no unusual pattern in billed usage
+C100185,0.0,no unusual pattern in billed usage
+C100186,0.0,no unusual pattern in billed usage
+C100189,0.0,no unusual pattern in billed usage
+C100190,0.0,no unusual pattern in billed usage
+C100191,0.0,no unusual pattern in billed usage
+C100192,0.0,no unusual pattern in billed usage
+C100193,0.0,no unusual pattern in billed usage
+C100194,0.0,no unusual pattern in billed usage
+C100195,0.0,no unusual pattern in billed usage
+C100196,0.0,no unusual pattern in billed usage
+C100197,0.0,no unusual pattern in billed usage
+C100198,0.0,no unusual pattern in billed usage
+C100199,0.0,no unusual pattern in billed usage
+C100200,0.0,no unusual pattern in billed usage
+C100201,0.0,no unusual pattern in billed usage
+C100204,0.0,no unusual pattern in billed usage
+C100205,0.0,no unusual pattern in billed usage
+C100206,0.0,no unusual pattern in billed usage
+C100207,0.0,no unusual pattern in billed usage
+C100208,0.0,no unusual pattern in billed usage
+C100209,0.0,no unusual pattern in billed usage
+C100210,0.0,no unusual pattern in billed usage
+C100212,0.0,no unusual pattern in billed usage
+C100213,0.0,no unusual pattern in billed usage
+C100214,0.0,no unusual pattern in billed usage
+C100215,0.0,no unusual pattern in billed usage
+C100216,0.0,no unusual pattern in billed usage
+C100217,0.0,no unusual pattern in billed usage
+C100218,0.0,no unusual pattern in billed usage
+C100219,0.0,no unusual pattern in billed usage
+C100220,0.0,no unusual pattern in billed usage
+C100222,0.0,no unusual pattern in billed usage
+C100224,0.0,no unusual pattern in billed usage
+C100225,0.0,no unusual pattern in billed usage
+C100226,0.0,no unusual pattern in billed usage
+C100227,0.0,no unusual pattern in billed usage
+C100228,0.0,no unusual pattern in billed usage
+C100229,0.0,no unusual pattern in billed usage
+C100230,0.0,no unusual pattern in billed usage
+C100231,0.0,no unusual pattern in billed usage
+C100232,0.0,no unusual pattern in billed usage
+C100233,0.0,no unusual pattern in billed usage
+C100234,0.0,no unusual pattern in billed usage
+C100235,0.0,no unusual pattern in billed usage
+C100236,0.0,no unusual pattern in billed usage
+C100238,0.0,no unusual pattern in billed usage
+C100239,0.0,no unusual pattern in billed usage
+C100240,0.0,no unusual pattern in billed usage
+C100241,0.0,no unusual pattern in billed usage
+C100242,0.0,no unusual pattern in billed usage
+C100245,0.0,no unusual pattern in billed usage
+C100246,0.0,no unusual pattern in billed usage
+C100247,0.0,no unusual pattern in billed usage
+C100248,0.0,no unusual pattern in billed usage
+C100249,0.0,no unusual pattern in billed usage
+C100251,0.0,no unusual pattern in billed usage
+C100252,0.0,no unusual pattern in billed usage
+C100253,0.0,no unusual pattern in billed usage
+C100254,0.0,no unusual pattern in billed usage
+C100257,0.0,no unusual pattern in billed usage
+C100258,0.0,no unusual pattern in billed usage
+C100260,0.0,no unusual pattern in billed usage
+C100261,0.0,no unusual pattern in billed usage
+C100262,0.0,no unusual pattern in billed usage
+C100263,0.0,no unusual pattern in billed usage
+C100264,0.0,no unusual pattern in billed usage
+C100265,0.0,no unusual pattern in billed usage
+C100266,0.0,no unusual pattern in billed usage
+C100268,0.0,no unusual pattern in billed usage
+C100271,0.0,no unusual pattern in billed usage
+C100272,0.0,no unusual pattern in billed usage
+C100273,0.0,no unusual pattern in billed usage
+C100274,0.0,no unusual pattern in billed usage
+C100275,0.0,no unusual pattern in billed usage
+C100278,0.0,no unusual pattern in billed usage
+C100279,0.0,no unusual pattern in billed usage
+C100281,0.0,no unusual pattern in billed usage
+C100282,0.0,no unusual pattern in billed usage
+C100283,0.0,no unusual pattern in billed usage
+C100284,0.0,no unusual pattern in billed usage
+C100286,0.0,no unusual pattern in billed usage
+C100288,0.0,no unusual pattern in billed usage
+C100290,0.0,no unusual pattern in billed usage
+C100292,0.0,no unusual pattern in billed usage
+C100293,0.0,no unusual pattern in billed usage
+C100298,0.0,no unusual pattern in billed usage
+C100299,0.0,no unusual pattern in billed usage
+C100300,0.0,no unusual pattern in billed usage
+C100301,0.0,no unusual pattern in billed usage
+C100306,0.0,no unusual pattern in billed usage
+C100307,0.0,no unusual pattern in billed usage
+C100308,0.0,no unusual pattern in billed usage
+C100310,0.0,no unusual pattern in billed usage
+C100311,0.0,no unusual pattern in billed usage
+C100312,0.0,no unusual pattern in billed usage
+C100315,0.0,no unusual pattern in billed usage
+C100318,0.0,no unusual pattern in billed usage
+C100320,0.0,no unusual pattern in billed usage
+C100321,0.0,no unusual pattern in billed usage
+C100323,0.0,no unusual pattern in billed usage
+C100324,0.0,no unusual pattern in billed usage
+C100325,0.0,no unusual pattern in billed usage
+C100326,0.0,no unusual pattern in billed usage
+C100328,0.0,no unusual pattern in billed usage
+C100330,0.0,no unusual pattern in billed usage
+C100331,0.0,no unusual pattern in billed usage
+C100332,0.0,no unusual pattern in billed usage
+C100333,0.0,no unusual pattern in billed usage
+C100334,0.0,no unusual pattern in billed usage
+C100335,0.0,no unusual pattern in billed usage
+C100336,0.0,no unusual pattern in billed usage
+C100337,0.0,no unusual pattern in billed usage
+C100340,0.0,no unusual pattern in billed usage
+C100341,0.0,no unusual pattern in billed usage
+C100343,0.0,no unusual pattern in billed usage
+C100344,0.0,no unusual pattern in billed usage
+C100346,0.0,no unusual pattern in billed usage
+C100347,0.0,no unusual pattern in billed usage
+C100349,0.0,no unusual pattern in billed usage
+C100350,0.0,no unusual pattern in billed usage
+C100352,0.0,no unusual pattern in billed usage
+C100353,0.0,no unusual pattern in billed usage
+C100354,0.0,no unusual pattern in billed usage
+C100355,0.0,no unusual pattern in billed usage
+C100356,0.0,no unusual pattern in billed usage
+C100359,0.0,no unusual pattern in billed usage
+C100360,0.0,no unusual pattern in billed usage
+C100362,0.0,no unusual pattern in billed usage
+C100363,0.0,no unusual pattern in billed usage
+C100364,0.0,no unusual pattern in billed usage
+C100366,0.0,no unusual pattern in billed usage
+C100367,0.0,no unusual pattern in billed usage
+C100368,0.0,no unusual pattern in billed usage
+C100369,0.0,no unusual pattern in billed usage
+C100370,0.0,no unusual pattern in billed usage
+C100372,0.0,no unusual pattern in billed usage
+C100373,0.0,no unusual pattern in billed usage
+C100374,0.0,no unusual pattern in billed usage
+C100375,0.0,no unusual pattern in billed usage
+C100376,0.0,no unusual pattern in billed usage
+C100378,0.0,no unusual pattern in billed usage
+C100379,0.0,no unusual pattern in billed usage
+C100381,0.0,no unusual pattern in billed usage
+C100382,0.0,no unusual pattern in billed usage
+C100383,0.0,no unusual pattern in billed usage
+C100384,0.0,no unusual pattern in billed usage
+C100385,0.0,no unusual pattern in billed usage
+C100386,0.0,no unusual pattern in billed usage
+C100388,0.0,no unusual pattern in billed usage
+C100390,0.0,no unusual pattern in billed usage
+C100391,0.0,no unusual pattern in billed usage
+C100392,0.0,no unusual pattern in billed usage
+C100393,0.0,no unusual pattern in billed usage
+C100394,0.0,no unusual pattern in billed usage
+C100396,0.0,no unusual pattern in billed usage
+C100397,0.0,no unusual pattern in billed usage
+C100398,0.0,no unusual pattern in billed usage
+C100399,0.0,no unusual pattern in billed usage
+C100400,0.0,no unusual pattern in billed usage
+C100401,0.0,no unusual pattern in billed usage
+C100402,0.0,no unusual pattern in billed usage
+C100403,0.0,no unusual pattern in billed usage
+C100406,0.0,no unusual pattern in billed usage
+C100407,0.0,no unusual pattern in billed usage
+C100408,0.0,no unusual pattern in billed usage
+C100409,0.0,no unusual pattern in billed usage
+C100411,0.0,no unusual pattern in billed usage
+C100412,0.0,no unusual pattern in billed usage
+C100414,0.0,no unusual pattern in billed usage
+C100418,0.0,no unusual pattern in billed usage
+C100419,0.0,no unusual pattern in billed usage
+C100421,0.0,no unusual pattern in billed usage
+C100422,0.0,no unusual pattern in billed usage
+C100423,0.0,no unusual pattern in billed usage
+C100424,0.0,no unusual pattern in billed usage
+C100425,0.0,no unusual pattern in billed usage
+C100426,0.0,no unusual pattern in billed usage
+C100427,0.0,no unusual pattern in billed usage
+C100428,0.0,no unusual pattern in billed usage
+C100430,0.0,no unusual pattern in billed usage
+C100431,0.0,no unusual pattern in billed usage
+C100432,0.0,no unusual pattern in billed usage
+C100434,0.0,no unusual pattern in billed usage
+C100435,0.0,no unusual pattern in billed usage
+C100437,0.0,no unusual pattern in billed usage
+C100438,0.0,no unusual pattern in billed usage
+C100439,0.0,no unusual pattern in billed usage
+C100440,0.0,no unusual pattern in billed usage
+C100441,0.0,no unusual pattern in billed usage
+C100442,0.0,no unusual pattern in billed usage
+C100443,0.0,no unusual pattern in billed usage
+C100444,0.0,no unusual pattern in billed usage
+C100446,0.0,no unusual pattern in billed usage
+C100449,0.0,no unusual pattern in billed usage
+C100450,0.0,no unusual pattern in billed usage
+C100451,0.0,no unusual pattern in billed usage
+C100452,0.0,no unusual pattern in billed usage
+C100454,0.0,no unusual pattern in billed usage
+C100455,0.0,no unusual pattern in billed usage
+C100456,0.0,no unusual pattern in billed usage
+C100457,0.0,no unusual pattern in billed usage
+C100459,0.0,no unusual pattern in billed usage
+C100460,0.0,no unusual pattern in billed usage
+C100461,0.0,no unusual pattern in billed usage
+C100462,0.0,no unusual pattern in billed usage
+C100463,0.0,no unusual pattern in billed usage
+C100464,0.0,no unusual pattern in billed usage
+C100465,0.0,no unusual pattern in billed usage
+C100466,0.0,no unusual pattern in billed usage
+C100467,0.0,no unusual pattern in billed usage
+C100468,0.0,no unusual pattern in billed usage
+C100470,0.0,no unusual pattern in billed usage
+C100471,0.0,no unusual pattern in billed usage
+C100472,0.0,no unusual pattern in billed usage
+C100474,0.0,no unusual pattern in billed usage
+C100475,0.0,no unusual pattern in billed usage
+C100476,0.0,no unusual pattern in billed usage
+C100477,0.0,no unusual pattern in billed usage
+C100479,0.0,no unusual pattern in billed usage
+C100480,0.0,no unusual pattern in billed usage
+C100482,0.0,no unusual pattern in billed usage
+C100483,0.0,no unusual pattern in billed usage
+C100484,0.0,no unusual pattern in billed usage
+C100485,0.0,no unusual pattern in billed usage
+C100486,0.0,no unusual pattern in billed usage
+C100487,0.0,no unusual pattern in billed usage
+C100488,0.0,no unusual pattern in billed usage
+C100490,0.0,no unusual pattern in billed usage
+C100491,0.0,no unusual pattern in billed usage
+C100493,0.0,no unusual pattern in billed usage
+C100494,0.0,no unusual pattern in billed usage
+C100495,0.0,no unusual pattern in billed usage
+C100496,0.0,no unusual pattern in billed usage
+C100497,0.0,no unusual pattern in billed usage
+C100498,0.0,no unusual pattern in billed usage
+C100500,0.0,no unusual pattern in billed usage
+C100501,0.0,no unusual pattern in billed usage
+C100502,0.0,no unusual pattern in billed usage
+C100503,0.0,no unusual pattern in billed usage
+C100504,0.0,no unusual pattern in billed usage
+C100505,0.0,no unusual pattern in billed usage
+C100506,0.0,no unusual pattern in billed usage
+C100508,0.0,no unusual pattern in billed usage
+C100509,0.0,no unusual pattern in billed usage
+C100511,0.0,no unusual pattern in billed usage
+C100513,0.0,no unusual pattern in billed usage
+C100514,0.0,no unusual pattern in billed usage
+C100516,0.0,no unusual pattern in billed usage
+C100517,0.0,no unusual pattern in billed usage
+C100518,0.0,no unusual pattern in billed usage
+C100519,0.0,no unusual pattern in billed usage
+C100520,0.0,no unusual pattern in billed usage
+C100522,0.0,no unusual pattern in billed usage
+C100523,0.0,no unusual pattern in billed usage
+C100524,0.0,no unusual pattern in billed usage
+C100525,0.0,no unusual pattern in billed usage
+C100526,0.0,no unusual pattern in billed usage
+C100528,0.0,no unusual pattern in billed usage
+C100529,0.0,no unusual pattern in billed usage
+C100530,0.0,no unusual pattern in billed usage
+C100533,0.0,no unusual pattern in billed usage
+C100534,0.0,no unusual pattern in billed usage
+C100536,0.0,no unusual pattern in billed usage
+C100539,0.0,no unusual pattern in billed usage
+C100541,0.0,no unusual pattern in billed usage
+C100543,0.0,no unusual pattern in billed usage
+C100544,0.0,no unusual pattern in billed usage
+C100545,0.0,no unusual pattern in billed usage
+C100546,0.0,no unusual pattern in billed usage
+C100547,0.0,no unusual pattern in billed usage
+C100548,0.0,no unusual pattern in billed usage
+C100549,0.0,no unusual pattern in billed usage
+C100550,0.0,no unusual pattern in billed usage
+C100551,0.0,no unusual pattern in billed usage
+C100552,0.0,no unusual pattern in billed usage
+C100553,0.0,no unusual pattern in billed usage
+C100554,0.0,no unusual pattern in billed usage
+C100555,0.0,no unusual pattern in billed usage
+C100556,0.0,no unusual pattern in billed usage
+C100559,0.0,no unusual pattern in billed usage
+C100560,0.0,no unusual pattern in billed usage
+C100561,0.0,no unusual pattern in billed usage
+C100563,0.0,no unusual pattern in billed usage
+C100564,0.0,no unusual pattern in billed usage
+C100565,0.0,no unusual pattern in billed usage
+C100566,0.0,no unusual pattern in billed usage
+C100567,0.0,no unusual pattern in billed usage
+C100568,0.0,no unusual pattern in billed usage
+C100570,0.0,no unusual pattern in billed usage
+C100572,0.0,no unusual pattern in billed usage
+C100573,0.0,no unusual pattern in billed usage
+C100574,0.0,no unusual pattern in billed usage
+C100576,0.0,no unusual pattern in billed usage
+C100577,0.0,no unusual pattern in billed usage
+C100578,0.0,no unusual pattern in billed usage
+C100582,0.0,no unusual pattern in billed usage
+C100583,0.0,no unusual pattern in billed usage
+C100584,0.0,no unusual pattern in billed usage
+C100585,0.0,no unusual pattern in billed usage
+C100586,0.0,no unusual pattern in billed usage
+C100587,0.0,no unusual pattern in billed usage
+C100588,0.0,no unusual pattern in billed usage
+C100589,0.0,no unusual pattern in billed usage
+C100590,0.0,no unusual pattern in billed usage
+C100591,0.0,no unusual pattern in billed usage
+C100592,0.0,no unusual pattern in billed usage
+C100593,0.0,no unusual pattern in billed usage
+C100594,0.0,no unusual pattern in billed usage
+C100595,0.0,no unusual pattern in billed usage
+C100596,0.0,no unusual pattern in billed usage
+C100601,0.0,no unusual pattern in billed usage
+C100602,0.0,no unusual pattern in billed usage
+C100604,0.0,no unusual pattern in billed usage
+C100605,0.0,no unusual pattern in billed usage
+C100606,0.0,no unusual pattern in billed usage
+C100607,0.0,no unusual pattern in billed usage
+C100611,0.0,no unusual pattern in billed usage
+C100612,0.0,no unusual pattern in billed usage
+C100614,0.0,no unusual pattern in billed usage
+C100615,0.0,no unusual pattern in billed usage
+C100616,0.0,no unusual pattern in billed usage
+C100617,0.0,no unusual pattern in billed usage
+C100618,0.0,no unusual pattern in billed usage
+C100619,0.0,no unusual pattern in billed usage
+C100620,0.0,no unusual pattern in billed usage
+C100625,0.0,no unusual pattern in billed usage
+C100626,0.0,no unusual pattern in billed usage
+C100627,0.0,no unusual pattern in billed usage
+C100629,0.0,no unusual pattern in billed usage
+C100635,0.0,no unusual pattern in billed usage
+C100636,0.0,no unusual pattern in billed usage
+C100638,0.0,no unusual pattern in billed usage
+C100639,0.0,no unusual pattern in billed usage
+C100643,0.0,no unusual pattern in billed usage
+C100648,0.0,no unusual pattern in billed usage
+C100650,0.0,no unusual pattern in billed usage
+C100652,0.0,no unusual pattern in billed usage
+C100653,0.0,no unusual pattern in billed usage
+C100654,0.0,no unusual pattern in billed usage
+C100656,0.0,no unusual pattern in billed usage
+C100657,0.0,no unusual pattern in billed usage
+C100658,0.0,no unusual pattern in billed usage
+C100659,0.0,no unusual pattern in billed usage
+C100662,0.0,no unusual pattern in billed usage
+C100666,0.0,no unusual pattern in billed usage
+C100668,0.0,no unusual pattern in billed usage
+C100669,0.0,no unusual pattern in billed usage
+C100670,0.0,no unusual pattern in billed usage
+C100671,0.0,no unusual pattern in billed usage
+C100672,0.0,no unusual pattern in billed usage
+C100673,0.0,no unusual pattern in billed usage
+C100674,0.0,no unusual pattern in billed usage
+C100675,0.0,no unusual pattern in billed usage
+C100676,0.0,no unusual pattern in billed usage
+C100677,0.0,no unusual pattern in billed usage
+C100679,0.0,no unusual pattern in billed usage
+C100680,0.0,no unusual pattern in billed usage
+C100681,0.0,no unusual pattern in billed usage
+C100682,0.0,no unusual pattern in billed usage
+C100684,0.0,no unusual pattern in billed usage
+C100685,0.0,no unusual pattern in billed usage
+C100686,0.0,no unusual pattern in billed usage
+C100687,0.0,no unusual pattern in billed usage
+C100688,0.0,no unusual pattern in billed usage
+C100690,0.0,no unusual pattern in billed usage
+C100692,0.0,no unusual pattern in billed usage
+C100694,0.0,no unusual pattern in billed usage
+C100695,0.0,no unusual pattern in billed usage
+C100697,0.0,no unusual pattern in billed usage
+C100699,0.0,no unusual pattern in billed usage
+C100701,0.0,no unusual pattern in billed usage
+C100702,0.0,no unusual pattern in billed usage
+C100703,0.0,no unusual pattern in billed usage
+C100704,0.0,no unusual pattern in billed usage
+C100706,0.0,no unusual pattern in billed usage
+C100707,0.0,no unusual pattern in billed usage
+C100708,0.0,no unusual pattern in billed usage
+C100709,0.0,no unusual pattern in billed usage
+C100710,0.0,no unusual pattern in billed usage
+C100711,0.0,no unusual pattern in billed usage
+C100712,0.0,no unusual pattern in billed usage
+C100714,0.0,no unusual pattern in billed usage
+C100716,0.0,no unusual pattern in billed usage
+C100717,0.0,no unusual pattern in billed usage
+C100718,0.0,no unusual pattern in billed usage
+C100719,0.0,no unusual pattern in billed usage
+C100720,0.0,no unusual pattern in billed usage
+C100721,0.0,no unusual pattern in billed usage
+C100723,0.0,no unusual pattern in billed usage
+C100724,0.0,no unusual pattern in billed usage
+C100725,0.0,no unusual pattern in billed usage
+C100726,0.0,no unusual pattern in billed usage
+C100729,0.0,no unusual pattern in billed usage
+C100730,0.0,no unusual pattern in billed usage
+C100731,0.0,no unusual pattern in billed usage
+C100733,0.0,no unusual pattern in billed usage
+C100734,0.0,no unusual pattern in billed usage
+C100735,0.0,no unusual pattern in billed usage
+C100738,0.0,no unusual pattern in billed usage
+C100739,0.0,no unusual pattern in billed usage
+C100740,0.0,no unusual pattern in billed usage
+C100741,0.0,no unusual pattern in billed usage
+C100742,0.0,no unusual pattern in billed usage
+C100743,0.0,no unusual pattern in billed usage
+C100744,0.0,no unusual pattern in billed usage
+C100747,0.0,no unusual pattern in billed usage
+C100748,0.0,no unusual pattern in billed usage
+C100752,0.0,no unusual pattern in billed usage
+C100753,0.0,no unusual pattern in billed usage
+C100754,0.0,no unusual pattern in billed usage
+C100755,0.0,no unusual pattern in billed usage
+C100756,0.0,no unusual pattern in billed usage
+C100757,0.0,no unusual pattern in billed usage
+C100758,0.0,no unusual pattern in billed usage
+C100759,0.0,no unusual pattern in billed usage
+C100761,0.0,no unusual pattern in billed usage
+C100762,0.0,no unusual pattern in billed usage
+C100763,0.0,no unusual pattern in billed usage
+C100764,0.0,no unusual pattern in billed usage
+C100765,0.0,no unusual pattern in billed usage
+C100767,0.0,no unusual pattern in billed usage
+C100768,0.0,no unusual pattern in billed usage
+C100769,0.0,no unusual pattern in billed usage
+C100771,0.0,no unusual pattern in billed usage
+C100775,0.0,no unusual pattern in billed usage
+C100776,0.0,no unusual pattern in billed usage
+C100778,0.0,no unusual pattern in billed usage
+C100779,0.0,no unusual pattern in billed usage
+C100780,0.0,no unusual pattern in billed usage
+C100782,0.0,no unusual pattern in billed usage
+C100783,0.0,no unusual pattern in billed usage
+C100784,0.0,no unusual pattern in billed usage
+C100787,0.0,no unusual pattern in billed usage
+C100788,0.0,no unusual pattern in billed usage
+C100789,0.0,no unusual pattern in billed usage
+C100790,0.0,no unusual pattern in billed usage
+C100791,0.0,no unusual pattern in billed usage
+C100792,0.0,no unusual pattern in billed usage
+C100793,0.0,no unusual pattern in billed usage
+C100795,0.0,no unusual pattern in billed usage
+C100796,0.0,no unusual pattern in billed usage
+C100799,0.0,no unusual pattern in billed usage
+C100802,0.0,no unusual pattern in billed usage
+C100803,0.0,no unusual pattern in billed usage
+C100805,0.0,no unusual pattern in billed usage
+C100807,0.0,no unusual pattern in billed usage
+C100808,0.0,no unusual pattern in billed usage
+C100811,0.0,no unusual pattern in billed usage
+C100812,0.0,no unusual pattern in billed usage
+C100813,0.0,no unusual pattern in billed usage
+C100817,0.0,no unusual pattern in billed usage
+C100818,0.0,no unusual pattern in billed usage
+C100819,0.0,no unusual pattern in billed usage
+C100820,0.0,no unusual pattern in billed usage
+C100821,0.0,no unusual pattern in billed usage
+C100822,0.0,no unusual pattern in billed usage
+C100823,0.0,no unusual pattern in billed usage
+C100824,0.0,no unusual pattern in billed usage
+C100825,0.0,no unusual pattern in billed usage
+C100827,0.0,no unusual pattern in billed usage
+C100828,0.0,no unusual pattern in billed usage
+C100829,0.0,no unusual pattern in billed usage
+C100830,0.0,no unusual pattern in billed usage
+C100831,0.0,no unusual pattern in billed usage
+C100832,0.0,no unusual pattern in billed usage
+C100833,0.0,no unusual pattern in billed usage
+C100834,0.0,no unusual pattern in billed usage
+C100835,0.0,no unusual pattern in billed usage
+C100836,0.0,no unusual pattern in billed usage
+C100837,0.0,no unusual pattern in billed usage
+C100839,0.0,no unusual pattern in billed usage
+C100840,0.0,no unusual pattern in billed usage
+C100841,0.0,no unusual pattern in billed usage
+C100842,0.0,no unusual pattern in billed usage
+C100843,0.0,no unusual pattern in billed usage
+C100845,0.0,no unusual pattern in billed usage
+C100847,0.0,no unusual pattern in billed usage
+C100849,0.0,no unusual pattern in billed usage
+C100850,0.0,no unusual pattern in billed usage
+C100851,0.0,no unusual pattern in billed usage
+C100852,0.0,no unusual pattern in billed usage
+C100853,0.0,no unusual pattern in billed usage
+C100854,0.0,no unusual pattern in billed usage
+C100855,0.0,no unusual pattern in billed usage
+C100856,0.0,no unusual pattern in billed usage
+C100857,0.0,no unusual pattern in billed usage
+C100858,0.0,no unusual pattern in billed usage
+C100859,0.0,no unusual pattern in billed usage
+C100860,0.0,no unusual pattern in billed usage
+C100863,0.0,no unusual pattern in billed usage
+C100864,0.0,no unusual pattern in billed usage
+C100865,0.0,no unusual pattern in billed usage
+C100866,0.0,no unusual pattern in billed usage
+C100867,0.0,no unusual pattern in billed usage
+C100868,0.0,no unusual pattern in billed usage
+C100869,0.0,no unusual pattern in billed usage
+C100871,0.0,no unusual pattern in billed usage
+C100872,0.0,no unusual pattern in billed usage
+C100874,0.0,no unusual pattern in billed usage
+C100875,0.0,no unusual pattern in billed usage
+C100877,0.0,no unusual pattern in billed usage
+C100878,0.0,no unusual pattern in billed usage
+C100879,0.0,no unusual pattern in billed usage
+C100880,0.0,no unusual pattern in billed usage
+C100881,0.0,no unusual pattern in billed usage
+C100882,0.0,no unusual pattern in billed usage
+C100883,0.0,no unusual pattern in billed usage
+C100884,0.0,no unusual pattern in billed usage
+C100885,0.0,no unusual pattern in billed usage
+C100886,0.0,no unusual pattern in billed usage
+C100887,0.0,no unusual pattern in billed usage
+C100888,0.0,no unusual pattern in billed usage
+C100890,0.0,no unusual pattern in billed usage
+C100891,0.0,no unusual pattern in billed usage
+C100892,0.0,no unusual pattern in billed usage
+C100893,0.0,no unusual pattern in billed usage
+C100895,0.0,no unusual pattern in billed usage
+C100896,0.0,no unusual pattern in billed usage
+C100901,0.0,no unusual pattern in billed usage
+C100903,0.0,no unusual pattern in billed usage
+C100904,0.0,no unusual pattern in billed usage
+C100905,0.0,no unusual pattern in billed usage
+C100906,0.0,no unusual pattern in billed usage
+C100907,0.0,no unusual pattern in billed usage
+C100909,0.0,no unusual pattern in billed usage
+C100910,0.0,no unusual pattern in billed usage
+C100911,0.0,no unusual pattern in billed usage
+C100913,0.0,no unusual pattern in billed usage
+C100915,0.0,no unusual pattern in billed usage
+C100916,0.0,no unusual pattern in billed usage
+C100918,0.0,no unusual pattern in billed usage
+C100920,0.0,no unusual pattern in billed usage
+C100924,0.0,no unusual pattern in billed usage
+C100925,0.0,no unusual pattern in billed usage
+C100927,0.0,no unusual pattern in billed usage
+C100929,0.0,no unusual pattern in billed usage
+C100930,0.0,no unusual pattern in billed usage
+C100931,0.0,no unusual pattern in billed usage
+C100932,0.0,no unusual pattern in billed usage
+C100933,0.0,no unusual pattern in billed usage
+C100934,0.0,no unusual pattern in billed usage
+C100935,0.0,no unusual pattern in billed usage
+C100936,0.0,no unusual pattern in billed usage
+C100937,0.0,no unusual pattern in billed usage
+C100938,0.0,no unusual pattern in billed usage
+C100939,0.0,no unusual pattern in billed usage
+C100941,0.0,no unusual pattern in billed usage
+C100943,0.0,no unusual pattern in billed usage
+C100944,0.0,no unusual pattern in billed usage
+C100945,0.0,no unusual pattern in billed usage
+C100946,0.0,no unusual pattern in billed usage
+C100948,0.0,no unusual pattern in billed usage
+C100950,0.0,no unusual pattern in billed usage
+C100951,0.0,no unusual pattern in billed usage
+C100952,0.0,no unusual pattern in billed usage
+C100954,0.0,no unusual pattern in billed usage
+C100956,0.0,no unusual pattern in billed usage
+C100958,0.0,no unusual pattern in billed usage
+C100960,0.0,no unusual pattern in billed usage
+C100961,0.0,no unusual pattern in billed usage
+C100963,0.0,no unusual pattern in billed usage
+C100964,0.0,no unusual pattern in billed usage
+C100965,0.0,no unusual pattern in billed usage
+C100966,0.0,no unusual pattern in billed usage
+C100967,0.0,no unusual pattern in billed usage
+C100968,0.0,no unusual pattern in billed usage
+C100969,0.0,no unusual pattern in billed usage
+C100970,0.0,no unusual pattern in billed usage
+C100971,0.0,no unusual pattern in billed usage
+C100972,0.0,no unusual pattern in billed usage
+C100973,0.0,no unusual pattern in billed usage
+C100974,0.0,no unusual pattern in billed usage
+C100975,0.0,no unusual pattern in billed usage
+C100977,0.0,no unusual pattern in billed usage
+C100978,0.0,no unusual pattern in billed usage
+C100979,0.0,no unusual pattern in billed usage
+C100980,0.0,no unusual pattern in billed usage
+C100981,0.0,no unusual pattern in billed usage
+C100982,0.0,no unusual pattern in billed usage
+C100983,0.0,no unusual pattern in billed usage
+C100984,0.0,no unusual pattern in billed usage
+C100986,0.0,no unusual pattern in billed usage
+C100987,0.0,no unusual pattern in billed usage
+C100988,0.0,no unusual pattern in billed usage
+C100991,0.0,no unusual pattern in billed usage
+C100993,0.0,no unusual pattern in billed usage
+C100994,0.0,no unusual pattern in billed usage
+C100997,0.0,no unusual pattern in billed usage
+C101000,0.0,no unusual pattern in billed usage
+C101002,0.0,no unusual pattern in billed usage
+C101003,0.0,no unusual pattern in billed usage
+C101005,0.0,no unusual pattern in billed usage
+C101006,0.0,no unusual pattern in billed usage
+C101008,0.0,no unusual pattern in billed usage
+C101009,0.0,no unusual pattern in billed usage
+C101010,0.0,no unusual pattern in billed usage
+C101011,0.0,no unusual pattern in billed usage
+C101012,0.0,no unusual pattern in billed usage
+C101014,0.0,no unusual pattern in billed usage
+C101015,0.0,no unusual pattern in billed usage
+C101016,0.0,no unusual pattern in billed usage
+C101017,0.0,no unusual pattern in billed usage
+C101018,0.0,no unusual pattern in billed usage
+C101019,0.0,no unusual pattern in billed usage
+C101020,0.0,no unusual pattern in billed usage
+C101021,0.0,no unusual pattern in billed usage
+C101022,0.0,no unusual pattern in billed usage
+C101023,0.0,no unusual pattern in billed usage
+C101024,0.0,no unusual pattern in billed usage
+C101025,0.0,no unusual pattern in billed usage
+C101026,0.0,no unusual pattern in billed usage
+C101027,0.0,no unusual pattern in billed usage
+C101028,0.0,no unusual pattern in billed usage
+C101029,0.0,no unusual pattern in billed usage
+C101030,0.0,no unusual pattern in billed usage
+C101031,0.0,no unusual pattern in billed usage
+C101032,0.0,no unusual pattern in billed usage
+C101033,0.0,no unusual pattern in billed usage
+C101035,0.0,no unusual pattern in billed usage
+C101036,0.0,no unusual pattern in billed usage
+C101037,0.0,no unusual pattern in billed usage
+C101038,0.0,no unusual pattern in billed usage
+C101039,0.0,no unusual pattern in billed usage
+C101040,0.0,no unusual pattern in billed usage
+C101042,0.0,no unusual pattern in billed usage
+C101043,0.0,no unusual pattern in billed usage
+C101044,0.0,no unusual pattern in billed usage
+C101045,0.0,no unusual pattern in billed usage
+C101047,0.0,no unusual pattern in billed usage
+C101048,0.0,no unusual pattern in billed usage
+C101049,0.0,no unusual pattern in billed usage
+C101051,0.0,no unusual pattern in billed usage
+C101052,0.0,no unusual pattern in billed usage
+C101053,0.0,no unusual pattern in billed usage
+C101054,0.0,no unusual pattern in billed usage
+C101055,0.0,no unusual pattern in billed usage
+C101056,0.0,no unusual pattern in billed usage
+C101058,0.0,no unusual pattern in billed usage
+C101060,0.0,no unusual pattern in billed usage
+C101061,0.0,no unusual pattern in billed usage
+C101062,0.0,no unusual pattern in billed usage
+C101063,0.0,no unusual pattern in billed usage
+C101064,0.0,no unusual pattern in billed usage
+C101066,0.0,no unusual pattern in billed usage
+C101067,0.0,no unusual pattern in billed usage
+C101069,0.0,no unusual pattern in billed usage
+C101070,0.0,no unusual pattern in billed usage
+C101071,0.0,no unusual pattern in billed usage
+C101072,0.0,no unusual pattern in billed usage
+C101073,0.0,no unusual pattern in billed usage
+C101076,0.0,no unusual pattern in billed usage
+C101077,0.0,no unusual pattern in billed usage
+C101079,0.0,no unusual pattern in billed usage
+C101080,0.0,no unusual pattern in billed usage
+C101081,0.0,no unusual pattern in billed usage
+C101082,0.0,no unusual pattern in billed usage
+C101083,0.0,no unusual pattern in billed usage
+C101084,0.0,no unusual pattern in billed usage
+C101085,0.0,no unusual pattern in billed usage
+C101086,0.0,no unusual pattern in billed usage
+C101088,0.0,no unusual pattern in billed usage
+C101090,0.0,no unusual pattern in billed usage
+C101093,0.0,no unusual pattern in billed usage
+C101097,0.0,no unusual pattern in billed usage
+C101098,0.0,no unusual pattern in billed usage
+C101099,0.0,no unusual pattern in billed usage
+C101100,0.0,no unusual pattern in billed usage
+C101101,0.0,no unusual pattern in billed usage
+C101102,0.0,no unusual pattern in billed usage
+C101103,0.0,no unusual pattern in billed usage
+C101104,0.0,no unusual pattern in billed usage
+C101105,0.0,no unusual pattern in billed usage
+C101106,0.0,no unusual pattern in billed usage
+C101107,0.0,no unusual pattern in billed usage
+C101108,0.0,no unusual pattern in billed usage
+C101112,0.0,no unusual pattern in billed usage
+C101113,0.0,no unusual pattern in billed usage
+C101114,0.0,no unusual pattern in billed usage
+C101115,0.0,no unusual pattern in billed usage
+C101116,0.0,no unusual pattern in billed usage
+C101117,0.0,no unusual pattern in billed usage
+C101118,0.0,no unusual pattern in billed usage
+C101119,0.0,no unusual pattern in billed usage
+C101120,0.0,no unusual pattern in billed usage
+C101122,0.0,no unusual pattern in billed usage
+C101123,0.0,no unusual pattern in billed usage
+C101124,0.0,no unusual pattern in billed usage
+C101125,0.0,no unusual pattern in billed usage
+C101126,0.0,no unusual pattern in billed usage
+C101127,0.0,no unusual pattern in billed usage
+C101128,0.0,no unusual pattern in billed usage
+C101129,0.0,no unusual pattern in billed usage
+C101130,0.0,no unusual pattern in billed usage
+C101131,0.0,no unusual pattern in billed usage
+C101133,0.0,no unusual pattern in billed usage
+C101134,0.0,no unusual pattern in billed usage
+C101135,0.0,no unusual pattern in billed usage
+C101136,0.0,no unusual pattern in billed usage
+C101137,0.0,no unusual pattern in billed usage
+C101140,0.0,no unusual pattern in billed usage
+C101142,0.0,no unusual pattern in billed usage
+C101143,0.0,no unusual pattern in billed usage
+C101144,0.0,no unusual pattern in billed usage
+C101146,0.0,no unusual pattern in billed usage
+C101147,0.0,no unusual pattern in billed usage
+C101148,0.0,no unusual pattern in billed usage
+C101150,0.0,no unusual pattern in billed usage
+C101151,0.0,no unusual pattern in billed usage
+C101152,0.0,no unusual pattern in billed usage
+C101153,0.0,no unusual pattern in billed usage
+C101154,0.0,no unusual pattern in billed usage
+C101155,0.0,no unusual pattern in billed usage
+C101156,0.0,no unusual pattern in billed usage
+C101157,0.0,no unusual pattern in billed usage
+C101158,0.0,no unusual pattern in billed usage
+C101159,0.0,no unusual pattern in billed usage
+C101160,0.0,no unusual pattern in billed usage
+C101162,0.0,no unusual pattern in billed usage
+C101163,0.0,no unusual pattern in billed usage
+C101164,0.0,no unusual pattern in billed usage
+C101165,0.0,no unusual pattern in billed usage
+C101166,0.0,no unusual pattern in billed usage
+C101167,0.0,no unusual pattern in billed usage
+C101168,0.0,no unusual pattern in billed usage
+C101169,0.0,no unusual pattern in billed usage
+C101170,0.0,no unusual pattern in billed usage
+C101171,0.0,no unusual pattern in billed usage
+C101172,0.0,no unusual pattern in billed usage
+C101173,0.0,no unusual pattern in billed usage
+C101174,0.0,no unusual pattern in billed usage
+C101175,0.0,no unusual pattern in billed usage
+C101176,0.0,no unusual pattern in billed usage
+C101177,0.0,no unusual pattern in billed usage
+C101178,0.0,no unusual pattern in billed usage
+C101179,0.0,no unusual pattern in billed usage
+C101180,0.0,no unusual pattern in billed usage
+C101181,0.0,no unusual pattern in billed usage
+C101182,0.0,no unusual pattern in billed usage
+C101183,0.0,no unusual pattern in billed usage
+C101186,0.0,no unusual pattern in billed usage
+C101187,0.0,no unusual pattern in billed usage
+C101188,0.0,no unusual pattern in billed usage
+C101189,0.0,no unusual pattern in billed usage
+C101191,0.0,no unusual pattern in billed usage
+C101192,0.0,no unusual pattern in billed usage
+C101193,0.0,no unusual pattern in billed usage
+C101194,0.0,no unusual pattern in billed usage
+C101195,0.0,no unusual pattern in billed usage
+C101196,0.0,no unusual pattern in billed usage
+C101198,0.0,no unusual pattern in billed usage
+C101200,0.0,no unusual pattern in billed usage
+C101201,0.0,no unusual pattern in billed usage
+C101202,0.0,no unusual pattern in billed usage
+C101203,0.0,no unusual pattern in billed usage
+C101204,0.0,no unusual pattern in billed usage
+C101205,0.0,no unusual pattern in billed usage
+C101208,0.0,no unusual pattern in billed usage
+C101209,0.0,no unusual pattern in billed usage
+C101210,0.0,no unusual pattern in billed usage
+C101212,0.0,no unusual pattern in billed usage
+C101213,0.0,no unusual pattern in billed usage
+C101214,0.0,no unusual pattern in billed usage
+C101215,0.0,no unusual pattern in billed usage
+C101216,0.0,no unusual pattern in billed usage
+C101217,0.0,no unusual pattern in billed usage
+C101218,0.0,no unusual pattern in billed usage
+C101219,0.0,no unusual pattern in billed usage
+C101220,0.0,no unusual pattern in billed usage
+C101221,0.0,no unusual pattern in billed usage
+C101223,0.0,no unusual pattern in billed usage
+C101224,0.0,no unusual pattern in billed usage
+C101225,0.0,no unusual pattern in billed usage
+C101227,0.0,no unusual pattern in billed usage
+C101229,0.0,no unusual pattern in billed usage
+C101230,0.0,no unusual pattern in billed usage
+C101231,0.0,no unusual pattern in billed usage
+C101232,0.0,no unusual pattern in billed usage
+C101233,0.0,no unusual pattern in billed usage
+C101234,0.0,no unusual pattern in billed usage
+C101235,0.0,no unusual pattern in billed usage
+C101236,0.0,no unusual pattern in billed usage
+C101237,0.0,no unusual pattern in billed usage
+C101238,0.0,no unusual pattern in billed usage
+C101239,0.0,no unusual pattern in billed usage
+C101240,0.0,no unusual pattern in billed usage
+C101241,0.0,no unusual pattern in billed usage
+C101242,0.0,no unusual pattern in billed usage
+C101243,0.0,no unusual pattern in billed usage
+C101244,0.0,no unusual pattern in billed usage
+C101245,0.0,no unusual pattern in billed usage
+C101246,0.0,no unusual pattern in billed usage
+C101247,0.0,no unusual pattern in billed usage
+C101248,0.0,no unusual pattern in billed usage
+C101250,0.0,no unusual pattern in billed usage
+C101251,0.0,no unusual pattern in billed usage
+C101252,0.0,no unusual pattern in billed usage
+C101255,0.0,no unusual pattern in billed usage
+C101256,0.0,no unusual pattern in billed usage
+C101258,0.0,no unusual pattern in billed usage
+C101261,0.0,no unusual pattern in billed usage
+C101262,0.0,no unusual pattern in billed usage
+C101263,0.0,no unusual pattern in billed usage
+C101264,0.0,no unusual pattern in billed usage
+C101265,0.0,no unusual pattern in billed usage
+C101268,0.0,no unusual pattern in billed usage
+C101269,0.0,no unusual pattern in billed usage
+C101270,0.0,no unusual pattern in billed usage
+C101271,0.0,no unusual pattern in billed usage
+C101272,0.0,no unusual pattern in billed usage
+C101273,0.0,no unusual pattern in billed usage
+C101274,0.0,no unusual pattern in billed usage
+C101275,0.0,no unusual pattern in billed usage
+C101276,0.0,no unusual pattern in billed usage
+C101277,0.0,no unusual pattern in billed usage
+C101278,0.0,no unusual pattern in billed usage
+C101279,0.0,no unusual pattern in billed usage
+C101280,0.0,no unusual pattern in billed usage
+C101283,0.0,no unusual pattern in billed usage
+C101284,0.0,no unusual pattern in billed usage
+C101285,0.0,no unusual pattern in billed usage
+C101287,0.0,no unusual pattern in billed usage
+C101288,0.0,no unusual pattern in billed usage
+C101289,0.0,no unusual pattern in billed usage
+C101291,0.0,no unusual pattern in billed usage
+C101292,0.0,no unusual pattern in billed usage
+C101293,0.0,no unusual pattern in billed usage
+C101294,0.0,no unusual pattern in billed usage
+C101295,0.0,no unusual pattern in billed usage
+C101296,0.0,no unusual pattern in billed usage
+C101297,0.0,no unusual pattern in billed usage
+C101299,0.0,no unusual pattern in billed usage
+C101301,0.0,no unusual pattern in billed usage
+C101302,0.0,no unusual pattern in billed usage
+C101303,0.0,no unusual pattern in billed usage
+C101304,0.0,no unusual pattern in billed usage
+C101306,0.0,no unusual pattern in billed usage
+C101307,0.0,no unusual pattern in billed usage
+C101308,0.0,no unusual pattern in billed usage
+C101309,0.0,no unusual pattern in billed usage
+C101311,0.0,no unusual pattern in billed usage
+C101312,0.0,no unusual pattern in billed usage
+C101313,0.0,no unusual pattern in billed usage
+C101314,0.0,no unusual pattern in billed usage
+C101316,0.0,no unusual pattern in billed usage
+C101317,0.0,no unusual pattern in billed usage
+C101318,0.0,no unusual pattern in billed usage
+C101321,0.0,no unusual pattern in billed usage
+C101323,0.0,no unusual pattern in billed usage
+C101324,0.0,no unusual pattern in billed usage
+C101325,0.0,no unusual pattern in billed usage
+C101326,0.0,no unusual pattern in billed usage
+C101327,0.0,no unusual pattern in billed usage
+C101329,0.0,no unusual pattern in billed usage
+C101330,0.0,no unusual pattern in billed usage
+C101331,0.0,no unusual pattern in billed usage
+C101332,0.0,no unusual pattern in billed usage
+C101333,0.0,no unusual pattern in billed usage
+C101334,0.0,no unusual pattern in billed usage
+C101335,0.0,no unusual pattern in billed usage
+C101337,0.0,no unusual pattern in billed usage
+C101339,0.0,no unusual pattern in billed usage
+C101340,0.0,no unusual pattern in billed usage
+C101341,0.0,no unusual pattern in billed usage
+C101342,0.0,no unusual pattern in billed usage
+C101343,0.0,no unusual pattern in billed usage
+C101346,0.0,no unusual pattern in billed usage
+C101348,0.0,no unusual pattern in billed usage
+C101349,0.0,no unusual pattern in billed usage
+C101353,0.0,no unusual pattern in billed usage
+C101354,0.0,no unusual pattern in billed usage
+C101356,0.0,no unusual pattern in billed usage
+C101357,0.0,no unusual pattern in billed usage
+C101359,0.0,no unusual pattern in billed usage
+C101360,0.0,no unusual pattern in billed usage
+C101361,0.0,no unusual pattern in billed usage
+C101362,0.0,no unusual pattern in billed usage
+C101363,0.0,no unusual pattern in billed usage
+C101364,0.0,no unusual pattern in billed usage
+C101365,0.0,no unusual pattern in billed usage
+C101366,0.0,no unusual pattern in billed usage
+C101367,0.0,no unusual pattern in billed usage
+C101368,0.0,no unusual pattern in billed usage
+C101369,0.0,no unusual pattern in billed usage
+C101371,0.0,no unusual pattern in billed usage
+C101372,0.0,no unusual pattern in billed usage
+C101373,0.0,no unusual pattern in billed usage
+C101374,0.0,no unusual pattern in billed usage
+C101376,0.0,no unusual pattern in billed usage
+C101377,0.0,no unusual pattern in billed usage
+C101378,0.0,no unusual pattern in billed usage
+C101379,0.0,no unusual pattern in billed usage
+C101380,0.0,no unusual pattern in billed usage
+C101381,0.0,no unusual pattern in billed usage
+C101383,0.0,no unusual pattern in billed usage
+C101384,0.0,no unusual pattern in billed usage
+C101385,0.0,no unusual pattern in billed usage
+C101386,0.0,no unusual pattern in billed usage
+C101387,0.0,no unusual pattern in billed usage
+C101388,0.0,no unusual pattern in billed usage
+C101390,0.0,no unusual pattern in billed usage
+C101391,0.0,no unusual pattern in billed usage
+C101392,0.0,no unusual pattern in billed usage
+C101394,0.0,no unusual pattern in billed usage
+C101397,0.0,no unusual pattern in billed usage
+C101398,0.0,no unusual pattern in billed usage
+C101399,0.0,no unusual pattern in billed usage
+C101400,0.0,no unusual pattern in billed usage
+C101402,0.0,no unusual pattern in billed usage
+C101403,0.0,no unusual pattern in billed usage
+C101406,0.0,no unusual pattern in billed usage
+C101408,0.0,no unusual pattern in billed usage
+C101411,0.0,no unusual pattern in billed usage
+C101413,0.0,no unusual pattern in billed usage
+C101415,0.0,no unusual pattern in billed usage
+C101416,0.0,no unusual pattern in billed usage
+C101418,0.0,no unusual pattern in billed usage
+C101419,0.0,no unusual pattern in billed usage
+C101420,0.0,no unusual pattern in billed usage
+C101421,0.0,no unusual pattern in billed usage
+C101422,0.0,no unusual pattern in billed usage
+C101423,0.0,no unusual pattern in billed usage
+C101425,0.0,no unusual pattern in billed usage
+C101426,0.0,no unusual pattern in billed usage
+C101427,0.0,no unusual pattern in billed usage
+C101428,0.0,no unusual pattern in billed usage
+C101430,0.0,no unusual pattern in billed usage
+C101433,0.0,no unusual pattern in billed usage
+C101435,0.0,no unusual pattern in billed usage
+C101436,0.0,no unusual pattern in billed usage
+C101437,0.0,no unusual pattern in billed usage
+C101438,0.0,no unusual pattern in billed usage
+C101439,0.0,no unusual pattern in billed usage
+C101440,0.0,no unusual pattern in billed usage
+C101441,0.0,no unusual pattern in billed usage
+C101442,0.0,no unusual pattern in billed usage
+C101443,0.0,no unusual pattern in billed usage
+C101444,0.0,no unusual pattern in billed usage
+C101445,0.0,no unusual pattern in billed usage
+C101447,0.0,no unusual pattern in billed usage
+C101449,0.0,no unusual pattern in billed usage
+C101450,0.0,no unusual pattern in billed usage
+C101452,0.0,no unusual pattern in billed usage
+C101453,0.0,no unusual pattern in billed usage
+C101456,0.0,no unusual pattern in billed usage
+C101457,0.0,no unusual pattern in billed usage
+C101459,0.0,no unusual pattern in billed usage
+C101460,0.0,no unusual pattern in billed usage
+C101461,0.0,no unusual pattern in billed usage
+C101464,0.0,no unusual pattern in billed usage
+C101465,0.0,no unusual pattern in billed usage
+C101466,0.0,no unusual pattern in billed usage
+C101467,0.0,no unusual pattern in billed usage
+C101468,0.0,no unusual pattern in billed usage
+C101470,0.0,no unusual pattern in billed usage
+C101471,0.0,no unusual pattern in billed usage
+C101473,0.0,no unusual pattern in billed usage
+C101474,0.0,no unusual pattern in billed usage
+C101475,0.0,no unusual pattern in billed usage
+C101476,0.0,no unusual pattern in billed usage
+C101477,0.0,no unusual pattern in billed usage
+C101478,0.0,no unusual pattern in billed usage
+C101479,0.0,no unusual pattern in billed usage
+C101480,0.0,no unusual pattern in billed usage
+C101481,0.0,no unusual pattern in billed usage
+C101482,0.0,no unusual pattern in billed usage
+C101483,0.0,no unusual pattern in billed usage
+C101484,0.0,no unusual pattern in billed usage
+C101485,0.0,no unusual pattern in billed usage
+C101487,0.0,no unusual pattern in billed usage
+C101488,0.0,no unusual pattern in billed usage
+C101489,0.0,no unusual pattern in billed usage
+C101490,0.0,no unusual pattern in billed usage
+C101491,0.0,no unusual pattern in billed usage
+C101492,0.0,no unusual pattern in billed usage
+C101493,0.0,no unusual pattern in billed usage
+C101494,0.0,no unusual pattern in billed usage
+C101495,0.0,no unusual pattern in billed usage
+C101499,0.0,no unusual pattern in billed usage
+C101500,0.0,no unusual pattern in billed usage
+C101501,0.0,no unusual pattern in billed usage
+C101502,0.0,no unusual pattern in billed usage
+C101503,0.0,no unusual pattern in billed usage
+C101504,0.0,no unusual pattern in billed usage
+C101505,0.0,no unusual pattern in billed usage
+C101506,0.0,no unusual pattern in billed usage
+C101507,0.0,no unusual pattern in billed usage
+C101508,0.0,no unusual pattern in billed usage
+C101509,0.0,no unusual pattern in billed usage
+C101510,0.0,no unusual pattern in billed usage
+C101511,0.0,no unusual pattern in billed usage
+C101512,0.0,no unusual pattern in billed usage
+C101516,0.0,no unusual pattern in billed usage
+C101517,0.0,no unusual pattern in billed usage
+C101518,0.0,no unusual pattern in billed usage
+C101519,0.0,no unusual pattern in billed usage
+C101521,0.0,no unusual pattern in billed usage
+C101522,0.0,no unusual pattern in billed usage
+C101523,0.0,no unusual pattern in billed usage
+C101524,0.0,no unusual pattern in billed usage
+C101525,0.0,no unusual pattern in billed usage
+C101527,0.0,no unusual pattern in billed usage
+C101528,0.0,no unusual pattern in billed usage
+C101529,0.0,no unusual pattern in billed usage
+C101530,0.0,no unusual pattern in billed usage
+C101532,0.0,no unusual pattern in billed usage
+C101533,0.0,no unusual pattern in billed usage
+C101534,0.0,no unusual pattern in billed usage
+C101535,0.0,no unusual pattern in billed usage
+C101536,0.0,no unusual pattern in billed usage
+C101537,0.0,no unusual pattern in billed usage
+C101538,0.0,no unusual pattern in billed usage
+C101539,0.0,no unusual pattern in billed usage
+C101540,0.0,no unusual pattern in billed usage
+C101541,0.0,no unusual pattern in billed usage
+C101543,0.0,no unusual pattern in billed usage
+C101544,0.0,no unusual pattern in billed usage
+C101545,0.0,no unusual pattern in billed usage
+C101549,0.0,no unusual pattern in billed usage
+C101550,0.0,no unusual pattern in billed usage
+C101551,0.0,no unusual pattern in billed usage
+C101552,0.0,no unusual pattern in billed usage
+C101553,0.0,no unusual pattern in billed usage
+C101556,0.0,no unusual pattern in billed usage
+C101558,0.0,no unusual pattern in billed usage
+C101559,0.0,no unusual pattern in billed usage
+C101561,0.0,no unusual pattern in billed usage
+C101562,0.0,no unusual pattern in billed usage
+C101563,0.0,no unusual pattern in billed usage
+C101564,0.0,no unusual pattern in billed usage
+C101565,0.0,no unusual pattern in billed usage
+C101566,0.0,no unusual pattern in billed usage
+C101567,0.0,no unusual pattern in billed usage
+C101568,0.0,no unusual pattern in billed usage
+C101569,0.0,no unusual pattern in billed usage
+C101570,0.0,no unusual pattern in billed usage
+C101571,0.0,no unusual pattern in billed usage
+C101572,0.0,no unusual pattern in billed usage
+C101574,0.0,no unusual pattern in billed usage
+C101575,0.0,no unusual pattern in billed usage
+C101576,0.0,no unusual pattern in billed usage
+C101578,0.0,no unusual pattern in billed usage
+C101580,0.0,no unusual pattern in billed usage
+C101582,0.0,no unusual pattern in billed usage
+C101584,0.0,no unusual pattern in billed usage
+C101585,0.0,no unusual pattern in billed usage
+C101586,0.0,no unusual pattern in billed usage
+C101587,0.0,no unusual pattern in billed usage
+C101588,0.0,no unusual pattern in billed usage
+C101589,0.0,no unusual pattern in billed usage
+C101590,0.0,no unusual pattern in billed usage
+C101592,0.0,no unusual pattern in billed usage
+C101594,0.0,no unusual pattern in billed usage
+C101597,0.0,no unusual pattern in billed usage
+C101598,0.0,no unusual pattern in billed usage
+C101599,0.0,no unusual pattern in billed usage
+C101600,0.0,no unusual pattern in billed usage
+C101601,0.0,no unusual pattern in billed usage
+C101602,0.0,no unusual pattern in billed usage
+C101603,0.0,no unusual pattern in billed usage
+C101606,0.0,no unusual pattern in billed usage
+C101607,0.0,no unusual pattern in billed usage
+C101609,0.0,no unusual pattern in billed usage
+C101612,0.0,no unusual pattern in billed usage
+C101613,0.0,no unusual pattern in billed usage
+C101616,0.0,no unusual pattern in billed usage
+C101617,0.0,no unusual pattern in billed usage
+C101618,0.0,no unusual pattern in billed usage
+C101619,0.0,no unusual pattern in billed usage
+C101621,0.0,no unusual pattern in billed usage
+C101622,0.0,no unusual pattern in billed usage
+C101625,0.0,no unusual pattern in billed usage
+C101626,0.0,no unusual pattern in billed usage
+C101628,0.0,no unusual pattern in billed usage
+C101629,0.0,no unusual pattern in billed usage
+C101630,0.0,no unusual pattern in billed usage
+C101632,0.0,no unusual pattern in billed usage
+C101633,0.0,no unusual pattern in billed usage
+C101634,0.0,no unusual pattern in billed usage
+C101636,0.0,no unusual pattern in billed usage
+C101637,0.0,no unusual pattern in billed usage
+C101639,0.0,no unusual pattern in billed usage
+C101640,0.0,no unusual pattern in billed usage
+C101641,0.0,no unusual pattern in billed usage
+C101642,0.0,no unusual pattern in billed usage
+C101643,0.0,no unusual pattern in billed usage
+C101644,0.0,no unusual pattern in billed usage
+C101645,0.0,no unusual pattern in billed usage
+C101646,0.0,no unusual pattern in billed usage
+C101647,0.0,no unusual pattern in billed usage
+C101650,0.0,no unusual pattern in billed usage
+C101651,0.0,no unusual pattern in billed usage
+C101653,0.0,no unusual pattern in billed usage
+C101654,0.0,no unusual pattern in billed usage
+C101655,0.0,no unusual pattern in billed usage
+C101656,0.0,no unusual pattern in billed usage
+C101657,0.0,no unusual pattern in billed usage
+C101659,0.0,no unusual pattern in billed usage
+C101660,0.0,no unusual pattern in billed usage
+C101663,0.0,no unusual pattern in billed usage
+C101664,0.0,no unusual pattern in billed usage
+C101665,0.0,no unusual pattern in billed usage
+C101666,0.0,no unusual pattern in billed usage
+C101667,0.0,no unusual pattern in billed usage
+C101668,0.0,no unusual pattern in billed usage
+C101669,0.0,no unusual pattern in billed usage
+C101670,0.0,no unusual pattern in billed usage
+C101671,0.0,no unusual pattern in billed usage
+C101672,0.0,no unusual pattern in billed usage
+C101673,0.0,no unusual pattern in billed usage
+C101675,0.0,no unusual pattern in billed usage
+C101676,0.0,no unusual pattern in billed usage
+C101678,0.0,no unusual pattern in billed usage
+C101680,0.0,no unusual pattern in billed usage
+C101681,0.0,no unusual pattern in billed usage
+C101684,0.0,no unusual pattern in billed usage
+C101685,0.0,no unusual pattern in billed usage
+C101686,0.0,no unusual pattern in billed usage
+C101688,0.0,no unusual pattern in billed usage
+C101689,0.0,no unusual pattern in billed usage
+C101691,0.0,no unusual pattern in billed usage
+C101692,0.0,no unusual pattern in billed usage
+C101693,0.0,no unusual pattern in billed usage
+C101696,0.0,no unusual pattern in billed usage
+C101697,0.0,no unusual pattern in billed usage
+C101698,0.0,no unusual pattern in billed usage
+C101699,0.0,no unusual pattern in billed usage
+C101700,0.0,no unusual pattern in billed usage
+C101701,0.0,no unusual pattern in billed usage
+C101702,0.0,no unusual pattern in billed usage
+C101703,0.0,no unusual pattern in billed usage
+C101704,0.0,no unusual pattern in billed usage
+C101705,0.0,no unusual pattern in billed usage
+C101706,0.0,no unusual pattern in billed usage
+C101707,0.0,no unusual pattern in billed usage
+C101708,0.0,no unusual pattern in billed usage
+C101709,0.0,no unusual pattern in billed usage
+C101710,0.0,no unusual pattern in billed usage
+C101711,0.0,no unusual pattern in billed usage
+C101712,0.0,no unusual pattern in billed usage
+C101713,0.0,no unusual pattern in billed usage
+C101714,0.0,no unusual pattern in billed usage
+C101715,0.0,no unusual pattern in billed usage
+C101716,0.0,no unusual pattern in billed usage
+C101717,0.0,no unusual pattern in billed usage
+C101719,0.0,no unusual pattern in billed usage
+C101724,0.0,no unusual pattern in billed usage
+C101725,0.0,no unusual pattern in billed usage
+C101729,0.0,no unusual pattern in billed usage
+C101731,0.0,no unusual pattern in billed usage
+C101733,0.0,no unusual pattern in billed usage
+C101734,0.0,no unusual pattern in billed usage
+C101735,0.0,no unusual pattern in billed usage
+C101737,0.0,no unusual pattern in billed usage
+C101738,0.0,no unusual pattern in billed usage
+C101739,0.0,no unusual pattern in billed usage
+C101740,0.0,no unusual pattern in billed usage
+C101741,0.0,no unusual pattern in billed usage
+C101744,0.0,no unusual pattern in billed usage
+C101746,0.0,no unusual pattern in billed usage
+C101747,0.0,no unusual pattern in billed usage
+C101749,0.0,no unusual pattern in billed usage
+C101750,0.0,no unusual pattern in billed usage
+C101751,0.0,no unusual pattern in billed usage
+C101752,0.0,no unusual pattern in billed usage
+C101753,0.0,no unusual pattern in billed usage
+C101754,0.0,no unusual pattern in billed usage
+C101756,0.0,no unusual pattern in billed usage
+C101757,0.0,no unusual pattern in billed usage
+C101759,0.0,no unusual pattern in billed usage
+C101760,0.0,no unusual pattern in billed usage
+C101761,0.0,no unusual pattern in billed usage
+C101762,0.0,no unusual pattern in billed usage
+C101763,0.0,no unusual pattern in billed usage
+C101766,0.0,no unusual pattern in billed usage
+C101767,0.0,no unusual pattern in billed usage
+C101768,0.0,no unusual pattern in billed usage
+C101769,0.0,no unusual pattern in billed usage
+C101770,0.0,no unusual pattern in billed usage
+C101772,0.0,no unusual pattern in billed usage
+C101775,0.0,no unusual pattern in billed usage
+C101776,0.0,no unusual pattern in billed usage
+C101777,0.0,no unusual pattern in billed usage
+C101778,0.0,no unusual pattern in billed usage
+C101779,0.0,no unusual pattern in billed usage
+C101780,0.0,no unusual pattern in billed usage
+C101782,0.0,no unusual pattern in billed usage
+C101783,0.0,no unusual pattern in billed usage
+C101784,0.0,no unusual pattern in billed usage
+C101785,0.0,no unusual pattern in billed usage
+C101786,0.0,no unusual pattern in billed usage
+C101787,0.0,no unusual pattern in billed usage
+C101788,0.0,no unusual pattern in billed usage
+C101789,0.0,no unusual pattern in billed usage
+C101790,0.0,no unusual pattern in billed usage
+C101791,0.0,no unusual pattern in billed usage
+C101792,0.0,no unusual pattern in billed usage
+C101794,0.0,no unusual pattern in billed usage
+C101795,0.0,no unusual pattern in billed usage
+C101796,0.0,no unusual pattern in billed usage
+C101797,0.0,no unusual pattern in billed usage
+C101798,0.0,no unusual pattern in billed usage
+C101799,0.0,no unusual pattern in billed usage
+C101800,0.0,no unusual pattern in billed usage
+C101801,0.0,no unusual pattern in billed usage
+C101802,0.0,no unusual pattern in billed usage
+C101803,0.0,no unusual pattern in billed usage
+C101804,0.0,no unusual pattern in billed usage
+C101806,0.0,no unusual pattern in billed usage
+C101807,0.0,no unusual pattern in billed usage
+C101808,0.0,no unusual pattern in billed usage
+C101809,0.0,no unusual pattern in billed usage
+C101812,0.0,no unusual pattern in billed usage
+C101813,0.0,no unusual pattern in billed usage
+C101814,0.0,no unusual pattern in billed usage
+C101816,0.0,no unusual pattern in billed usage
+C101818,0.0,no unusual pattern in billed usage
+C101819,0.0,no unusual pattern in billed usage
+C101822,0.0,no unusual pattern in billed usage
+C101823,0.0,no unusual pattern in billed usage
+C101824,0.0,no unusual pattern in billed usage
+C101825,0.0,no unusual pattern in billed usage
+C101827,0.0,no unusual pattern in billed usage
+C101828,0.0,no unusual pattern in billed usage
+C101830,0.0,no unusual pattern in billed usage
+C101831,0.0,no unusual pattern in billed usage
+C101832,0.0,no unusual pattern in billed usage
+C101834,0.0,no unusual pattern in billed usage
+C101835,0.0,no unusual pattern in billed usage
+C101838,0.0,no unusual pattern in billed usage
+C101839,0.0,no unusual pattern in billed usage
+C101841,0.0,no unusual pattern in billed usage
+C101842,0.0,no unusual pattern in billed usage
+C101844,0.0,no unusual pattern in billed usage
+C101845,0.0,no unusual pattern in billed usage
+C101846,0.0,no unusual pattern in billed usage
+C101847,0.0,no unusual pattern in billed usage
+C101849,0.0,no unusual pattern in billed usage
+C101851,0.0,no unusual pattern in billed usage
+C101852,0.0,no unusual pattern in billed usage
+C101853,0.0,no unusual pattern in billed usage
+C101854,0.0,no unusual pattern in billed usage
+C101856,0.0,no unusual pattern in billed usage
+C101857,0.0,no unusual pattern in billed usage
+C101858,0.0,no unusual pattern in billed usage
+C101859,0.0,no unusual pattern in billed usage
+C101860,0.0,no unusual pattern in billed usage
+C101861,0.0,no unusual pattern in billed usage
+C101862,0.0,no unusual pattern in billed usage
+C101863,0.0,no unusual pattern in billed usage
+C101865,0.0,no unusual pattern in billed usage
+C101866,0.0,no unusual pattern in billed usage
+C101867,0.0,no unusual pattern in billed usage
+C101868,0.0,no unusual pattern in billed usage
+C101869,0.0,no unusual pattern in billed usage
+C101871,0.0,no unusual pattern in billed usage
+C101872,0.0,no unusual pattern in billed usage
+C101873,0.0,no unusual pattern in billed usage
+C101876,0.0,no unusual pattern in billed usage
+C101877,0.0,no unusual pattern in billed usage
+C101878,0.0,no unusual pattern in billed usage
+C101879,0.0,no unusual pattern in billed usage
+C101880,0.0,no unusual pattern in billed usage
+C101881,0.0,no unusual pattern in billed usage
+C101882,0.0,no unusual pattern in billed usage
+C101883,0.0,no unusual pattern in billed usage
+C101885,0.0,no unusual pattern in billed usage
+C101886,0.0,no unusual pattern in billed usage
+C101887,0.0,no unusual pattern in billed usage
+C101888,0.0,no unusual pattern in billed usage
+C101890,0.0,no unusual pattern in billed usage
+C101891,0.0,no unusual pattern in billed usage
+C101892,0.0,no unusual pattern in billed usage
+C101893,0.0,no unusual pattern in billed usage
+C101894,0.0,no unusual pattern in billed usage
+C101895,0.0,no unusual pattern in billed usage
+C101896,0.0,no unusual pattern in billed usage
+C101897,0.0,no unusual pattern in billed usage
+C101899,0.0,no unusual pattern in billed usage
+C101900,0.0,no unusual pattern in billed usage
+C101901,0.0,no unusual pattern in billed usage
+C101902,0.0,no unusual pattern in billed usage
+C101903,0.0,no unusual pattern in billed usage
+C101904,0.0,no unusual pattern in billed usage
+C101905,0.0,no unusual pattern in billed usage
+C101907,0.0,no unusual pattern in billed usage
+C101908,0.0,no unusual pattern in billed usage
+C101909,0.0,no unusual pattern in billed usage
+C101910,0.0,no unusual pattern in billed usage
+C101911,0.0,no unusual pattern in billed usage
+C101912,0.0,no unusual pattern in billed usage
+C101916,0.0,no unusual pattern in billed usage
+C101917,0.0,no unusual pattern in billed usage
+C101919,0.0,no unusual pattern in billed usage
+C101920,0.0,no unusual pattern in billed usage
+C101921,0.0,no unusual pattern in billed usage
+C101922,0.0,no unusual pattern in billed usage
+C101923,0.0,no unusual pattern in billed usage
+C101924,0.0,no unusual pattern in billed usage
+C101925,0.0,no unusual pattern in billed usage
+C101926,0.0,no unusual pattern in billed usage
+C101928,0.0,no unusual pattern in billed usage
+C101931,0.0,no unusual pattern in billed usage
+C101932,0.0,no unusual pattern in billed usage
+C101933,0.0,no unusual pattern in billed usage
+C101934,0.0,no unusual pattern in billed usage
+C101935,0.0,no unusual pattern in billed usage
+C101937,0.0,no unusual pattern in billed usage
+C101938,0.0,no unusual pattern in billed usage
+C101939,0.0,no unusual pattern in billed usage
+C101941,0.0,no unusual pattern in billed usage
+C101942,0.0,no unusual pattern in billed usage
+C101944,0.0,no unusual pattern in billed usage
+C101945,0.0,no unusual pattern in billed usage
+C101946,0.0,no unusual pattern in billed usage
+C101947,0.0,no unusual pattern in billed usage
+C101948,0.0,no unusual pattern in billed usage
+C101949,0.0,no unusual pattern in billed usage
+C101950,0.0,no unusual pattern in billed usage
+C101951,0.0,no unusual pattern in billed usage
+C101952,0.0,no unusual pattern in billed usage
+C101953,0.0,no unusual pattern in billed usage
+C101954,0.0,no unusual pattern in billed usage
+C101955,0.0,no unusual pattern in billed usage
+C101956,0.0,no unusual pattern in billed usage
+C101958,0.0,no unusual pattern in billed usage
+C101959,0.0,no unusual pattern in billed usage
+C101960,0.0,no unusual pattern in billed usage
+C101962,0.0,no unusual pattern in billed usage
+C101963,0.0,no unusual pattern in billed usage
+C101964,0.0,no unusual pattern in billed usage
+C101965,0.0,no unusual pattern in billed usage
+C101966,0.0,no unusual pattern in billed usage
+C101967,0.0,no unusual pattern in billed usage
+C101968,0.0,no unusual pattern in billed usage
+C101969,0.0,no unusual pattern in billed usage
+C101970,0.0,no unusual pattern in billed usage
+C101971,0.0,no unusual pattern in billed usage
+C101972,0.0,no unusual pattern in billed usage
+C101974,0.0,no unusual pattern in billed usage
+C101975,0.0,no unusual pattern in billed usage
+C101976,0.0,no unusual pattern in billed usage
+C101978,0.0,no unusual pattern in billed usage
+C101979,0.0,no unusual pattern in billed usage
+C101980,0.0,no unusual pattern in billed usage
+C101981,0.0,no unusual pattern in billed usage
+C101982,0.0,no unusual pattern in billed usage
+C101983,0.0,no unusual pattern in billed usage
+C101984,0.0,no unusual pattern in billed usage
+C101986,0.0,no unusual pattern in billed usage
+C101987,0.0,no unusual pattern in billed usage
+C101988,0.0,no unusual pattern in billed usage
+C101989,0.0,no unusual pattern in billed usage
+C101990,0.0,no unusual pattern in billed usage
+C101991,0.0,no unusual pattern in billed usage
+C101992,0.0,no unusual pattern in billed usage
+C101993,0.0,no unusual pattern in billed usage
+C101994,0.0,no unusual pattern in billed usage
+C101995,0.0,no unusual pattern in billed usage
+C101996,0.0,no unusual pattern in billed usage
+C101997,0.0,no unusual pattern in billed usage
+C101998,0.0,no unusual pattern in billed usage

@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+# analysis.ipynb only
+matplotlib>=3.8
+scikit-learn>=1.4
+jupyter
